@@ -3,7 +3,8 @@
 - eldritch
 
 Interesting tropes: 
--
+	- teaming up with unlikely party
+	- surprise allies
 
 
 tech noir - setting / world building:
