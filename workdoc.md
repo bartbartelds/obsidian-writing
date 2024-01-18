@@ -2,4 +2,13 @@
 - tech noir
 - eldritch
 
-AI is working its way into regular life, inserting itself into every facet of life - and often between 
+
+
+tech noir - setting / world building:
+AI is working its way into regular life, inserting itself into every facet of life - often inserting itself into the spots traditionally reserved for human to human interaction. As the level of abstraction between humans increases >>> increased power >>> increased lack of control 
+
+eldritch - developments: 
+horror / machine learning / self reinforcing mechanism --- strange math working its way into evolutions, morphing intentions of AI
+
+what to do: 
+heist / supernatural heist // sabotage the thing, blow it all up, reinsert a human element
