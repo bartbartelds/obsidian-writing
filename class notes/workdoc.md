@@ -11,6 +11,11 @@ Interesting tropes:
 	- high security
 	- magic
 - tech noir
+	- 
+- eldritch
+	- cultists
+	- going insane
+	- ancient evil
 
 
 tech noir - setting / world building:
