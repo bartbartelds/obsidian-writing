@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3362b897435ebbe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class notes/20240118.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creative Writing usva 2023/2024-03.md",
+                "file": "class notes/20240118.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creative Writing usva 2023/2024-03.md",
+                "file": "class notes/20240118.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creative Writing usva 2023/2024-03.md"
+                "file": "class notes/20240118.md"
               }
             }
           }
@@ -155,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bef07ec3ba775f0",
+  "active": "3362b897435ebbe1",
   "lastOpenFiles": [
-    "Creative Writing usva 2023/2024-01.md",
     "Creative Writing usva 2023/2024-03.md",
+    "class notes/20240118.md",
+    "class notes",
+    "Creative Writing usva 2023/2024-01.md",
     "Creative Writing usva 2023/2023-49.md",
     "markdown.md.md",
     "Creative Writing usva 2023"
