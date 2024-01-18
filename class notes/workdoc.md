@@ -2,8 +2,6 @@
 - tech noir
 - eldritch
 
-
-
 tech noir - setting / world building:
 AI is working its way into regular life, inserting itself into every facet of life - often inserting itself into the spots traditionally reserved for human to human interaction. As the level of abstraction between humans increases >>> increased power >>> increased lack of control 
 
