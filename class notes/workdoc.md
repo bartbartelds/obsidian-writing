@@ -3,7 +3,7 @@
 - eldritch
 
 Interesting tropes:  
-- eldritch
+- supernatural heist
 	- teaming up with unlikely party
 	- surprise allies
 	- mazes -- occult ?

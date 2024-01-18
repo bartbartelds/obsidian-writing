@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/20240118 - I.md",
+                "file": "class notes/workdoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/20240118 - I.md",
+                "file": "class notes/workdoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/20240118 - I.md"
+                "file": "class notes/workdoc.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7c208936fa5eb3",
+  "active": "01fc6bad58212fed",
   "lastOpenFiles": [
-    "class notes/workdoc.md",
     "class notes/20240118 - I.md",
+    "class notes/workdoc.md",
     "Creative Writing usva 2023/2024-01.md",
     "files/USVA CW Basics nov 23.pdf",
     "Creative Writing usva 2023/2024-03.md",
