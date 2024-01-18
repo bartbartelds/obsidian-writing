@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "class notes/20240118 - I.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7c208936fa5eb3",
+  "active": "01fc6bad58212fed",
   "lastOpenFiles": [
     "class notes/20240118 - I.md",
     "class notes/workdoc.md",

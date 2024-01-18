@@ -2,9 +2,15 @@
 - tech noir
 - eldritch
 
-Interesting tropes: 
+Interesting tropes:  
+- eldritch
 	- teaming up with unlikely party
 	- surprise allies
+	- mazes -- occult ?
+	- vaults -- occult ?
+	- high security
+	- magic
+- tech noir
 
 
 tech noir - setting / world building:
