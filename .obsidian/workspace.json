@@ -8,74 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64af95f8dba6bb7f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3bef07ec3ba775f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creative Writing usva 2023/2024-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3362b897435ebbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class notes/20240118 - I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e12ceaa42cea028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class notes/20140125 - II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "684374f6ae16bc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class notes/20240201 - III.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c644a8bd19cf9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class notes/20240208 - IV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f7c208936fa5eb3",
             "type": "leaf",
             "state": {
@@ -87,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,14 +148,14 @@
   },
   "active": "6f7c208936fa5eb3",
   "lastOpenFiles": [
+    "files/USVA CW Basics nov 23.pdf",
+    "class notes/20240118 - I.md",
+    "Creative Writing usva 2023/2024-03.md",
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
     "class notes/20140125 - II.md",
-    "class notes/20240118 - I.md",
     "Creative Writing usva 2023/2024-01.md",
-    "Creative Writing usva 2023/2024-03.md",
-    "files/USVA CW Basics nov 23.pdf",
     "files",
     "untitled folder",
     "class notes",
