@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "markdown.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "markdown.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "markdown.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/workdoc.md"
+                "file": "markdown.md.md"
               }
             }
           }
@@ -158,10 +158,11 @@
   "active": "999ea8d51e5a3a89",
   "lastOpenFiles": [
     "class notes/20240118 - I.md",
+    "class notes/workdoc.md",
+    "files/ana_func_4.png",
     "markdown.md.md",
     "files/USVA CW Basics nov 23.pdf",
     "files",
-    "class notes/workdoc.md",
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
