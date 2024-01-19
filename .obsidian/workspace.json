@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f7c208936fa5eb3",
+            "id": "64af95f8dba6bb7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "999ea8d51e5a3a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "class notes/20240118 - I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "class notes/20240118 - I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "class notes/20240118 - I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/workdoc.md"
+                "file": "class notes/20240118 - I.md"
               }
             }
           }
@@ -146,22 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7c208936fa5eb3",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
-    "class notes/20240118 - I.md",
-    "class notes/workdoc.md",
+    "markdown.md.md",
     "files/USVA CW Basics nov 23.pdf",
-    "Creative Writing usva 2023/2024-01.md",
-    "Creative Writing usva 2023/2024-03.md",
+    "files",
+    "class notes/workdoc.md",
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
+    "class notes/20240118 - I.md",
     "class notes/20140125 - II.md",
-    "files",
-    "untitled folder",
     "class notes",
-    "Creative Writing usva 2023/2023-49.md",
-    "markdown.md.md",
-    "Creative Writing usva 2023"
+    "prompts/2024-03.md",
+    "prompts/2024-01.md",
+    "prompts/2023-49.md",
+    "Creative Writing usva 2023/wk2.md",
+    "prompts"
   ]
 }
