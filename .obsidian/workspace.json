@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/20240118 - I.md",
+                "file": "class notes/workdoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/20240118 - I.md",
+                "file": "class notes/workdoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/20240118 - I.md",
+                "file": "class notes/workdoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/20240118 - I.md"
+                "file": "class notes/workdoc.md"
               }
             }
           }
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c26b649e629f571",
+  "active": "999ea8d51e5a3a89",
   "lastOpenFiles": [
+    "class notes/20240118 - I.md",
     "markdown.md.md",
     "files/USVA CW Basics nov 23.pdf",
     "files",
@@ -164,7 +165,6 @@
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
-    "class notes/20240118 - I.md",
     "class notes/20140125 - II.md",
     "class notes",
     "prompts/2024-03.md",
