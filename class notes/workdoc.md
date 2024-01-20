@@ -1,8 +1,4 @@
-- supernatural heist 
-- tech noir
-- eldritch
-
-Interesting tropes:  
+Interesting genres / tropes
 - supernatural heist
 	- teaming up with unlikely party
 	- surprise allies
