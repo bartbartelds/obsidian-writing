@@ -11,7 +11,6 @@ Interesting tropes:
 	- high security
 	- magic
 - tech noir
-	- 
 - eldritch
 	- cultists
 	- going insane
