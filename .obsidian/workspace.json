@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "class notes/meta-outlines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa60143344c83da8",
+  "active": "6f7c208936fa5eb3",
   "lastOpenFiles": [
     "class notes/meta-outlines.md",
     "class notes/workdoc.md",
