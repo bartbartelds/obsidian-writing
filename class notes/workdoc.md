@@ -1,8 +1,4 @@
-- supernatural heist 
-- tech noir
-- eldritch
-
-Interesting tropes:  
+Interesting genres / tropes
 - supernatural heist
 	- teaming up with unlikely party
 	- surprise allies
@@ -11,7 +7,6 @@ Interesting tropes:
 	- high security
 	- magic
 - tech noir
-	- 
 - eldritch
 	- cultists
 	- going insane
