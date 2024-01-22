@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "999ea8d51e5a3a89",
+            "id": "6f7c208936fa5eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class notes/workdoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa60143344c83da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,23 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "999ea8d51e5a3a89",
+  "active": "aa60143344c83da8",
   "lastOpenFiles": [
-    "class notes/20240118 - I.md",
-    "prompts/2023-49.md",
+    "class notes/meta-outlines.md",
+    "class notes/workdoc.md",
     "prompts/2024-03.md",
     "prompts/2024-01.md",
-    "class notes/workdoc.md",
-    "markdown.md.md",
+    "prompts/2023-49.md",
+    "prompts",
     "files/ana_func_4.png",
+    "class notes/20240118 - I.md",
     "files/USVA CW Basics nov 23.pdf",
-    "files",
+    "Creative Writing usva 2023/2024-01.md",
+    "Creative Writing usva 2023/2024-03.md",
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
     "class notes/20140125 - II.md",
+    "files",
+    "untitled folder",
     "class notes",
-    "Creative Writing usva 2023/wk2.md",
-    "prompts"
+    "Creative Writing usva 2023/2023-49.md",
+    "markdown.md.md",
+    "Creative Writing usva 2023"
   ]
 }
