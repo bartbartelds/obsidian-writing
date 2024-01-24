@@ -25,6 +25,15 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 
 ## Outline
 
-
+https://www.youtube.com/watch?v=KbyDNRsrhUo
+- promises, progress, payoff. 
+- the italian job:
+	- gather a team
+	- explain the problem -> problemS
+		- problem 1 is solved by solution A,
+		- problem 2 is solved by solution B,
+		- problem 3 is solved by solution C,
+		- problem 4 is solved by solution D
+	- An unexpected / unanticipated development changes the playing field, making problems 1, 2, 3 and 4 irrelevant
 
 
