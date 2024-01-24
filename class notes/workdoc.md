@@ -25,15 +25,19 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 
 ## Outline
 
+https://www.youtube.com/watch?v=-hO7fM9EHU4
+- promises, progress, payoff.
+
 https://www.youtube.com/watch?v=KbyDNRsrhUo
-- promises, progress, payoff. 
-- the italian job:
+- 'the italian job' heist story archetype
 	- gather a team
 	- explain the problem -> problemS
 		- problem 1 is solved by solution A,
 		- problem 2 is solved by solution B,
 		- problem 3 is solved by solution C,
-		- problem 4 is solved by solution D
-	- An unexpected / unanticipated development changes the playing field, making problems 1, 2, 3 and 4 irrelevant
+		- problem 4 is solved by solution D.
+	- An unexpected / unanticipated development changes the playing field, making problems 1, 2, 3 and 4 irrelevant and introduces problems 5, 6, 7 and 8. 
+	- The team discovers that solutions can be employed differently, or combined, to resolve problems 5, 6, 7 and 8 in ways that were not intended. 
+	- 
 
 
