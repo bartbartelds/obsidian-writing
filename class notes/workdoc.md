@@ -23,6 +23,8 @@ what to do:
 heist / supernatural heist // sabotage the thing, blow it all up, reinsert a human element
 
 
+## Outline
+
 
 
 
