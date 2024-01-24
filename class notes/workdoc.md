@@ -27,6 +27,11 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 
 https://www.youtube.com/watch?v=-hO7fM9EHU4
 - promises, progress, payoff.
+- promises:
+	- tone - f.e. funny/whimsical/dark and gritty
+	- genre
+	- plot -> in the sense of the type of progress that the reader can expect
+	- character
 
 https://www.youtube.com/watch?v=KbyDNRsrhUo
 - 'the italian job' heist story archetype
