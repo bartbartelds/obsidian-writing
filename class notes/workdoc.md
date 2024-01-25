@@ -59,7 +59,7 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 
 1. introduction
 	- establish setting - tech noir / dystopian future / low fantasy
-	- tone
+	- tone - sharp, smart, cynical, individualistic protagonists. Cultists/machines should be more empathetic / collectivist / harmonious / homogenous
 	- plot
 	- introduce character and character challenges
 	- 
