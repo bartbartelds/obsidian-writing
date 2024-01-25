@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fca8aaeb839a33ac",
@@ -161,8 +160,9 @@
   },
   "active": "6f7c208936fa5eb3",
   "lastOpenFiles": [
-    "class notes/20240118 - I.md",
+    "class notes/20140125 - II.md",
     "class notes/workdoc.md",
+    "class notes/20240118 - I.md",
     "class notes/meta-outlines.md",
     "prompts/2024-03.md",
     "prompts/2024-01.md",
@@ -175,7 +175,6 @@
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
-    "class notes/20140125 - II.md",
     "files",
     "untitled folder",
     "class notes",
