@@ -21,11 +21,12 @@ eldritch - developments:
 horror / machine learning / self reinforcing mechanism --- strange math working its way into evolutions, morphing intentions of AI
 
 what to do: 
-heist / supernatural heist // sabotage the thing, blow it all up, reinsert a human element
+heist / supernatural heist // sabotage the thing, blow it all up, reinsert a human element. *this, but not this. *
 
 
 ## Outline
 
+### Notes
 https://www.youtube.com/watch?v=-hO7fM9EHU4
 - promises, progress, payoff.
 - promises:
@@ -54,7 +55,7 @@ needs to establish tone, have motion, feature an active protagonist acting on a 
 
 Character promise - set up a desire, a problem, a challenge, a motivation that is acted on / that will intersect with story developments later. 
 
-### "close the brackets"
+### "open and then close the brackets"
 
 1. introduction
 	- introduce character and character challenges
@@ -82,4 +83,5 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 	- 
 6. epilogue
 	- wraps up character storylines
-	- bri
+	- brings main character's story full circle
+	- 
