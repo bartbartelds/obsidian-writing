@@ -60,7 +60,17 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 	- introduce character and character challenges
 	- establish setting, tone, plot
 	- 
+2. explain the problems
 	- explain the problems
-		- find allies to solve problems
-		- sub plots for ally development
-			- 
+	- find allies to solve problems
+	-  introduce sub plots for ally development
+	- 
+3. crisis / break / development
+	- something goes horribly wrong
+	- the team is weakened, reduced, some ally plot resolution
+	- the problems are changed and at the same time the stakes are raised
+	- 
+4. struggle to resolve new problems
+	- discoveryin
+1. execute
+2. epilogue
