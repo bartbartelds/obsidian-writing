@@ -44,5 +44,7 @@ https://www.youtube.com/watch?v=KbyDNRsrhUo
 		- problem 4 is solved by solution D.
 	- An unexpected / unanticipated development changes the playing field, making problems 1, 2, 3 and 4 irrelevant and introduces problems 5, 6, 7 and 8. 
 	- The team discovers that solutions can be employed differently, or combined, to resolve problems 5, 6, 7 and 8 in ways that were not intended. 
+		- *Really like the parallel with IT problem solving here.
+	- success!
 
 Opening paragraph needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. It does not have to feature introduction to the actual main plot - but should feature some events and motivations that are plot-adjecent in tone and in content.
