@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=-hO7fM9EHU4
 	- tone - f.e. funny/whimsical/dark and gritty
 	- genre
 	- plot -> in the sense of the type of progress that the reader can expect
-	- character
+	- character promise
 
 https://www.youtube.com/watch?v=KbyDNRsrhUo
 - 'the italian job' heist story archetype
@@ -50,4 +50,6 @@ https://www.youtube.com/watch?v=KbyDNRsrhUo
 ### Opening paragraph 
 needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. It does not have to feature introduction to the actual main plot - but should feature some events and motivations that are plot-adjecent in tone and in content.
 
-Refer to opening scenes of A new hope or indiana jones - 
+*Refer to opening scenes of A new hope or indiana jones. *
+
+Character promise - set up a desire, a problem, a challenge, a motivation that is acted on / that will intersect with story developments later. 
