@@ -26,6 +26,80 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 
 ## Outline
 
+### Why (author’s point of view)
+
+  
+
+### Who (characters)
+	- Agonists
+		- main character
+		- allies
+			- 1
+		- 2
+		- 3
+		- 4
+- antagonists
+	- big bad
+	- mini bosses
+		- 1
+		- 2
+	- cultists / thralls
+		- 'flavors'
+		- npc's
+
+### Where (setting)
+
+### When (mood)
+
+### What happened(events of the plot)
+
+#### "open and then close the brackets"
+
+1. introduction
+	- establish setting - tech noir / dystopian future / low fantasy
+	- tone - sharp, smart, cynical, individualistic protagonists. Cultists/machines should be more empathetic / collectivist / harmonious / homogenous
+	- plot
+	- introduce character and character challenges
+	- Opening paragraph:
+		needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. It does not have to feature introduction to the actual main plot - but should feature some events and motivations that are plot-adjecent in tone and in content.
+
+		*Refer to opening scenes of A new hope or indiana jones. *
+
+		Character promise - set up a desire, a problem, a challenge, a motivation that is acted on / that will intersect with story developments later. 
+
+2. explain the problems
+	- explain the problems
+	- find allies to solve problems
+		- problem 1 is solved by solution A,
+		- problem 2 is solved by solution B,
+		- problem 3 is solved by solution C,
+		- problem 4 is solved by solution D.
+	-  introduce sub plots for ally development
+	- 
+3. crisis / break / development
+	- something goes horribly wrong
+	- the team is weakened, reduced, some ally plot resolution
+	- the problems are changed and at the same time the stakes are raised
+		- An unexpected / unanticipated development changes the playing field, making problems 1, 2, 3 and 4 irrelevant and introduces problems 5, 6, 7 and 8. 
+	- 
+4. struggle to resolve new problems
+	- character development working through loss, impact, loss of hope, corruption
+	- The team discovers that solutions can be employed differently, or combined, to resolve problems 5, 6, 7 and 8 in ways that were not intended. 
+	- Build toward second/ last desperate attempt
+	- 
+1. execute
+	- 'it's now or never'
+	- the team executes. Not everybody makes it. 
+	- success, great stakes are addressed and resolved, several ally storylines are also concluded but (at least) main characters journey is still unresolved
+	- 
+2. epilogue
+	- wrap up remaining ally storylines
+	- bring main character's story full circle
+
+
+### How does it end (resolution)
+
+
 ### Notes
 https://www.youtube.com/watch?v=-hO7fM9EHU4
 - promises, progress, payoff.
