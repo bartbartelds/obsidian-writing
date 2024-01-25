@@ -103,9 +103,10 @@ A parallel version of Earth around 2050. AI has worked its way into every facet 
 	- wrap up remaining ally storylines
 	- bring main character's story full circle
 
-
 ### How does it end (resolution)
-- Do I actually want t
+- plot: the good guys win, but at a price. 
+- events are set in motion that will change the course of history - but what exactly can remain open. The big bad's influence is eradicated but the mundane presence has not - and may be even worse to deal with than big bad. (the empire strikes back)
+- there should remain a hint of magic / the unknown / the unknowable to spark a part II. 
 
 ### Notes
 https://www.youtube.com/watch?v=-hO7fM9EHU4
