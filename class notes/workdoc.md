@@ -58,8 +58,8 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 ### "open and then close the brackets"
 
 1. introduction
-	- introduce character and character challenges
 	- establish setting, tone, plot
+	- introduce character and character challenges
 	- 
 2. explain the problems
 	- explain the problems
@@ -86,6 +86,22 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 	- brings main character's story full circle
 
 
+### Cast
+- Agonists
+	- main character
+	- allies
+		- 1
+		- 2
+		- 3
+		- 4
+- antagonists
+	- big bad
+	- mini bosses
+		- 1
+		- 2
+	- cultists / thralls
+		- 'flavors'
+		- npc's
 #### Character themes / arc's - ideas: 
 
 Some general human nature stuff. Also: 
