@@ -12,6 +12,7 @@ Interesting genres / tropes
 	- going insane
 	- ancient evil
 
+## Initial take: 
 
 tech noir - setting / world building:
 AI is working its way into regular life, inserting itself into every facet of life - often inserting itself into the spots traditionally reserved for human to human interaction. As the level of abstraction between humans increases >>> increased power >>> increased lack of control 
@@ -43,6 +44,5 @@ https://www.youtube.com/watch?v=KbyDNRsrhUo
 		- problem 4 is solved by solution D.
 	- An unexpected / unanticipated development changes the playing field, making problems 1, 2, 3 and 4 irrelevant and introduces problems 5, 6, 7 and 8. 
 	- The team discovers that solutions can be employed differently, or combined, to resolve problems 5, 6, 7 and 8 in ways that were not intended. 
-	- 
 
-
+Opening paragraph needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. 
