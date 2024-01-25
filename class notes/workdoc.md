@@ -88,6 +88,8 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 
 #### Character themes / arc's - ideas: 
 
+Some general human nature stuff. Also: 
+
 - Technological Evolution: **Adaptation to Cybernetics:**
    - Characters undergo physical augmentation or enhancements through cybernetic implants, exploring the psychological and ethical implications of merging human and machine.
 
@@ -111,8 +113,6 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 
 - Ethical Dilemmas and Moral Evolution: **Moral Leadership:**
    - Characters transition from individuals with personal moral codes to leaders who inspire ethical behavior in others, highlighting their growth in moral leadership within a complex sci-fi world.
-
-### List 1: Unraveling Sanity
 
 - Unraveling Sanity**Initial Ignorance to Cosmic Realities:**
    - Characters begin unaware of the eldritch horrors lurking in the shadows, and their development involves gradually discovering the incomprehensible truths that threaten their sanity.
@@ -144,50 +144,41 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 - Occult Knowledge and Arcane Mastery**Transformation into Eldritch Entities:**
    - Characters undergo a metamorphosis, transforming into eldritch entities themselves, blurring the line between protagonist and antagonist as they grapple with the loss of humanity.
 
-2. Paranormal Investigator's Descent **Haunted by Premonitions:**
+- Paranormal Investigator's Descent **Haunted by Premonitions:**
    - Characters develop the ability to perceive glimpses of the future or alternate realities, leading to psychological torment as they struggle to make sense of their visions and prevent impending doom.
 
-3. Paranormal Investigator's Descent **Haunted Past and Personal Demons:**
+- Paranormal Investigator's Descent **Haunted Past and Personal Demons:**
    - Characters confront personal traumas and haunted pasts that intertwine with eldritch horrors, showcasing their growth as they face not only external cosmic threats but also internal demons.
 
-4. **Guardians of the Veil:**
+- Paranormal Investigator's Descent **Guardians of the Veil:**
    - Characters become guardians of the thin veil between the mundane and the eldritch, developing a sense of duty to protect the world from the horrors that lurk beyond.
 
-5. **Eldritch Enlightenment:**
-   - Characters evolve as they seek enlightenment through understanding eldritch mysteries, transcending human limitations in pursuit of cosmic truths, even at the cost of their sanity.
-
-### List 4: Community Bonds in the Abyss
-
-1. **Building Alliances Against the Unknown:**
+- Community Bonds in the Abyss **Building Alliances Against the Unknown:**
    - Characters evolve as they form alliances with other individuals aware of eldritch horrors, developing a sense of community and shared responsibility in the face of cosmic threats.
 
-2. **Cults and Secret Societies:**
+- Community Bonds in the Abyss **Cults and Secret Societies:**
    - Characters may become members or leaders of cults or secret societies dedicated to either harnessing or resisting eldritch powers, leading to complex moral dilemmas.
 
-3. **Eldritch Sanctuary Keepers:**
+- Community Bonds in the Abyss **Eldritch Sanctuary Keepers:**
    - Characters become stewards of places where the veil between worlds is thin, protecting these locations from exploitation and preventing eldritch horrors from spilling into the mortal realm.
 
-4. **Psychic Networks:**
+- Community Bonds in the Abyss **Psychic Networks:**
    - Characters establish psychic connections with others, creating networks that facilitate the sharing of eldritch knowledge and collective resistance against cosmic entities.
 
-5. **Sacrificial Bonds:**
+- Community Bonds in the Abyss **Sacrificial Bonds:**
    - Characters may form sacrificial bonds with each other, willingly sharing burdens and consequences to strengthen their collective ability to withstand the eldritch forces at play.
 
-### List 5: Existential Revelation and Cosmic Despair
-
-1. **Existential Crisis and Identity Dissolution:**
+- Existential Revelation and Cosmic Despair **Existential Crisis and Identity Dissolution:**
    - Characters undergo profound existential crises, questioning their own identity and purpose in a universe where eldritch horrors challenge the very fabric of reality.
-
-2. **Fragmented Perception of Time:**
+   
+- Existential Revelation and Cosmic Despair **Fragmented Perception of Time:**
    - Characters experience time in fragmented and non-linear ways, leading to a distorted sense of reality and a struggle to maintain a coherent understanding of their past, present, and future.
 
-3. **Conduit of Cosmic Despair:**
+- Existential Revelation and Cosmic Despair **Conduit of Cosmic Despair:**
    - Characters become conduits for cosmic despair, experiencing the weight of the universe's indifference, and must find a way to resist succumbing to nihilism and hopelessness.
 
-4. **Becoming Eldritch Vessels:**
+- Existential Revelation and Cosmic Despair **Becoming Eldritch Vessels:**
    - Characters transform into vessels for eldritch entities, struggling with the merging of their consciousness with ancient beings and the loss of their humanity in the process.
-
-5. **Eldritch Revelation and Enlightenment:**
+   
+- Existential Revelation and Cosmic Despair **Eldritch Revelation and Enlightenment:**
    - Characters evolve as they gain enlightenment through direct communion with eldritch entities, transcending mortal limitations and becoming conduits for cosmic truths that challenge the sanity of those around them.
-
-These character development ideas provide a foundation for creating complex and nuanced characters in the unsettling and otherworldly context of eldritch horror.
