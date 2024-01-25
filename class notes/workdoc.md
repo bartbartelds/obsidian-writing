@@ -54,15 +54,15 @@ A parallel version of Earth around 2050. AI has worked its way into every facet 
 60% of society - and shrinking: conscious compliance, servitude, 
 5%: of society: active defiance, rebellion
 
-
 ### What happened(events of the plot)
 
 #### "open and then close the brackets"
 
 1. introduction
+	- plot points: 
+		- big bad is accellerating 
 	- establish setting - tech noir / dystopian future / low fantasy
 	- tone - sharp, smart, cynical, individualistic protagonists. Cultists/machines should be more empathetic / collectivist / harmonious / homogenous
-	- plot
 	- introduce character and character challenges
 	- Opening paragraph:
 		needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. It does not have to feature introduction to the actual main plot - but should feature some events and motivations that are plot-adjecent in tone and in content.
@@ -70,6 +70,7 @@ A parallel version of Earth around 2050. AI has worked its way into every facet 
 		*Refer to opening scenes of A new hope or indiana jones. *
 
 		Character promise - set up a desire, a problem, a challenge, a motivation that is acted on / that will intersect with story developments later. 
+	
 
 2. explain the problems
 	- explain the problems
