@@ -60,7 +60,7 @@ A parallel version of Earth around 2050. AI has worked its way into every facet 
 
 1. introduction
 	- plot points: 
-		- big bad is accellerating 
+		- main character works on a standard case, but ends up discovering something strange, hinting at larger wheels having been set in motion behind the scenes. 
 	- establish setting - tech noir / dystopian future / low fantasy
 	- tone - sharp, smart, cynical, individualistic protagonists. Cultists/machines should be more empathetic / collectivist / harmonious / homogenous
 	- introduce character and character challenges
@@ -73,6 +73,8 @@ A parallel version of Earth around 2050. AI has worked its way into every facet 
 	
 
 2. explain the problems
+	- plot points: 
+		- 
 	- explain the problems
 	- find allies to solve problems
 		- problem 1 is solved by solution A,
@@ -103,7 +105,7 @@ A parallel version of Earth around 2050. AI has worked its way into every facet 
 
 
 ### How does it end (resolution)
-
+- Do I actually want t
 
 ### Notes
 https://www.youtube.com/watch?v=-hO7fM9EHU4
