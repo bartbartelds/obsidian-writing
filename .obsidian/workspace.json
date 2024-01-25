@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ddc0ec4d5f19264b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa60143344c83da8",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/workdoc.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7c208936fa5eb3",
+  "active": "ddc0ec4d5f19264b",
   "lastOpenFiles": [
-    "class notes/20140125 - II.md",
     "class notes/workdoc.md",
+    "conflict-files-obsidian-git.md",
+    "class notes/20140125 - II.md",
     "class notes/20240118 - I.md",
     "class notes/meta-outlines.md",
     "prompts/2024-03.md",
