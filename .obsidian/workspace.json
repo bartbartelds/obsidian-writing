@@ -16,8 +16,21 @@
                 "file": "files/ana_func_4.png"
               }
             }
+          },
+          {
+            "id": "d3f35285fd801af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class notes/workdoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/ana_func_4.png",
+                "file": "class notes/workdoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/ana_func_4.png",
+                "file": "class notes/workdoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/ana_func_4.png"
+                "file": "class notes/workdoc.md"
               }
             }
           }
@@ -144,15 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "999ea8d51e5a3a89",
+  "active": "d3f35285fd801af8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "files/ana_func_4.png",
+    "class notes/meta-outlines.md",
     "class notes/workdoc.md",
     "class notes/20240118 - I.md",
     "prompts/2023-49.md",
     "prompts/2024-03.md",
     "prompts/2024-01.md",
     "markdown.md.md",
-    "files/ana_func_4.png",
     "files/USVA CW Basics nov 23.pdf",
     "files",
     "class notes/20240215 - V.md",
