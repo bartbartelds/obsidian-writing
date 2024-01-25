@@ -12,6 +12,7 @@ Interesting genres / tropes
 	- going insane
 	- ancient evil
 
+
 ## Initial take: 
 
 tech noir - setting / world building:
@@ -22,7 +23,6 @@ horror / machine learning / self reinforcing mechanism --- strange math working 
 
 what to do: 
 heist / supernatural heist // sabotage the thing, blow it all up, reinsert a human element. *this, but not this. *
-
 
 ## Outline
 
