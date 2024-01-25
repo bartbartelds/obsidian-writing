@@ -48,9 +48,10 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 			- npc's
 
 ### Where (setting)
-A parallel version of Earth around 2050. AI has worked its way into every facet of everyday life, reducing the work done by humans significantly. Human interaction has dropped to an all time low, as most cannot tell superfacial difference anymore between what is real and what is not. 
-
+A parallel version of Earth around 2050. AI has worked its way into every facet of everyday life. Direct human interaction has dropped to an all time low. What is real and what is not is nearly impossible to tell for most. 
 ### When (mood)
+Quiet slavery, servitude, defiance, rebellion
+
 
 ### What happened(events of the plot)
 
