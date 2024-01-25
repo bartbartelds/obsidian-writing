@@ -86,50 +86,32 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 	- brings main character's story full circle
 
 
-Characters and arc's
-Certainly! Character development is crucial in any story, including those set in a sci-fi setting. Here are five lists of character developments that can apply to characters in a sci-fi setting:
+#### Character themes / arc's: 
 
-### List 1: Technological Evolution
-
-1. **Adaptation to Cybernetics:**
+- Technological Evolution: **Adaptation to Cybernetics:**
    - Characters undergo physical augmentation or enhancements through cybernetic implants, exploring the psychological and ethical implications of merging human and machine.
 
-2. **Mastery of Advanced Technology:**
-   - Characters start as novices in using futuristic technology and gradually become experts, showcasing their growth in understanding and manipulating cutting-edge gadgets and systems.
-
-3. **Integration with Artificial Intelligence:**
+- Technological Evolution: **Integration with Artificial Intelligence:**
    - Characters form unique bonds with advanced AI systems, leading to a symbiotic relationship where they learn and evolve together, challenging traditional notions of human-machine interactions.
-
-4. **Tech-Savvy Problem Solving:**
+   - 
+- Technological Evolution **Tech-Savvy Problem Solving:**
    - Characters initially struggle with futuristic problem-solving but grow to efficiently navigate and resolve challenges in a technologically complex environment, showcasing their adaptability.
-
-5. **Hacking and Information Warfare Skills:**
+   
+- Technological Evolution: **Hacking and Information Warfare Skills:**
    - Characters develop their hacking abilities and expertise in information warfare, emphasizing the importance of cybersecurity and the risks associated with a hyper-connected, digital society.
 
-### List 3: Ethical Dilemmas and Moral Evolution
-
-1. **Clash of Ethical Systems:**
+- Ethical Dilemmas and Moral Evolution: **Clash of Ethical Systems:**
    - Characters navigate conflicts arising from differing ethical frameworks, forcing them to reevaluate and refine their own moral principles in a diverse and morally complex universe.
 
-2. **Bioethical Quandaries:**
+- Ethical Dilemmas and Moral Evolution: **Bioethical Quandaries:**
    - Characters confront moral dilemmas related to genetic engineering, cloning, and other bioethical issues, challenging their beliefs and forcing them to make difficult decisions.
 
-3. **AI Rights and Sentience:**
+- Ethical Dilemmas and Moral Evolution: **AI Rights and Sentience:**
    - Characters grapple with the ethical implications of artificial intelligence gaining sentience, leading to personal growth as they redefine their understanding of consciousness and personhood.
 
-4. **Environmental Stewardship:**
-   - Characters evolve as environmental stewards, recognizing the impact of advanced technology on ecosystems and developing a sense of responsibility toward preserving the balance of nature.
-
-5. **Moral Leadership:**
+- Ethical Dilemmas and Moral Evolution: **Moral Leadership:**
    - Characters transition from individuals with personal moral codes to leaders who inspire ethical behavior in others, highlighting their growth in moral leadership within a complex sci-fi world.
 
-### List 4: Personal Relationships and Emotional Growth
-
-1. **Interspecies Relationships:**
-   - Characters navigate and overcome challenges in forming deep connections with members of alien species, exploring the complexities of interspecies relationships.
-
-2. **Family Dynamics in Space:**
-   - Characters experience the challenges of maintaining family ties while living in space, undergoing personal growth as they balance the demands of space exploration and f
 
 ### List 5: Rebellion and Societal Change
 
@@ -147,5 +129,3 @@ Certainly! Character development is crucial in any story, including those set in
 
 5. **Revolutionary Innovators:**
    - Characters transform from passive consumers of societal norms to revolutionary innovators, driving technological, political, and cultural changes that redefine the fabric of their sci-fi society.
-
-These character development ideas provide a foundation for creating dynamic and multifaceted characters within the context of a sci-fi setting.
