@@ -47,4 +47,7 @@ https://www.youtube.com/watch?v=KbyDNRsrhUo
 		- *Really like the parallel with IT problem solving here.
 	- success!
 
-Opening paragraph needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. It does not have to feature introduction to the actual main plot - but should feature some events and motivations that are plot-adjecent in tone and in content.
+### Opening paragraph 
+needs to establish tone, have motion, feature an active protagonist acting on a goal. It should promise motion and promise change. It does not have to feature introduction to the actual main plot - but should feature some events and motivations that are plot-adjecent in tone and in content.
+
+Refer to opening scenes of A new hope or indiana jones - 
