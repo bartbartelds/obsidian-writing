@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/characters.md",
+                "file": "class notes/20140125 - II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/characters.md",
+                "file": "class notes/20140125 - II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/characters.md",
+                "file": "class notes/20140125 - II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/characters.md"
+                "file": "class notes/20140125 - II.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "ddc0ec4d5f19264b",
   "lastOpenFiles": [
-    "class notes/20140125 - II.md",
     "_work/workdoc.md",
-    "_work/characters.md",
+    "class notes/20140125 - II.md",
     "_work/meta-outlines.md",
+    "_work/characters.md",
     "_work",
     "conflict-files-obsidian-git.md",
     "class notes/20240118 - I.md",
