@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/workdoc.md",
+                "file": "_work/workdoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ecb311757de08c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_work/characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/20140125 - II.md",
+                "file": "_work/characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/20140125 - II.md",
+                "file": "_work/characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/20140125 - II.md"
+                "file": "_work/characters.md"
               }
             }
           }
@@ -159,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddc0ec4d5f19264b",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
-    "class notes/workdoc.md",
-    "class notes/meta-outlines.md",
+    "_work",
     "class notes/20140125 - II.md",
+    "_work/characters.md",
+    "_work/workdoc.md",
+    "_work/meta-outlines.md",
     "conflict-files-obsidian-git.md",
     "class notes/20240118 - I.md",
     "prompts/2024-03.md",
