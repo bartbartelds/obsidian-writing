@@ -1,9 +1,6 @@
 http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 
-# Part 1: The Basics
-
----
-
+### The basics 
 - What is your full name?
 - Where and when were you born?
 - Who are/were your parents? (Know their names, occupations, personalities, etc.)
@@ -18,11 +15,7 @@ http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 - What words and/or phrases do you use very frequently?
 - What do you have in your pockets?
 - Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?
-
-# Part 2: Growing Up
-
----
-
+### Growing Up
 - How would you describe your childhood in general?
 - What is your earliest memory?
 - How much schooling have you had?
@@ -37,11 +30,7 @@ http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 - When and with whom was your first kiss?
 - Are you a virgin? If not, when and with whom did you lose your virginity?
 - If you are a supernatural being (i.e. mage, werewolf, vampire), tell the story of how you became what you are or first learned of your own abilities. If you are just a normal human, describe any influences in your past that led you to do the things you do today.
-
-# Part 3: Past Influences
-
----
-
+### Past Influences
 - What do you consider the most important event of your life so far?
 - Who has had the most influence on you?
 - What do you consider your greatest achievement?
@@ -53,11 +42,7 @@ http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 - If you could change one thing from your past, what would it be, and why?
 - What is your best memory?
 - What is your worst memory?
-
-# Part 4: Beliefs And Opinions
-
----
-
+### Beliefs And Opinions
 - Are you basically optimistic or pessimistic?
 - What is your greatest fear?
 - What are your religious views?
@@ -71,11 +56,7 @@ http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 - Do you have any biases or prejudices?
 - Is there anything you absolutely refuse to do under any circumstances? Why do you refuse to do it?
 - Who or what, if anything, would you die for (or otherwise go to extremes for)?
-
-# Part 5: Relationships With Others
-
----
-
+### Relationships With Others
 - In general, how do you treat others (politely, rudely, by keeping them at a distance, etc.)? Does your treatment of them change depending on how well you know them, and if so, how?
 - Who is the most important person in your life, and why?
 - Who is the person you respect the most, and why?
@@ -93,11 +74,7 @@ http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 - Do you tend to take on leadership roles in social situations?
 - Do you like interacting with large groups of people? Why or why not?
 - Do you care what others think of you?
-
-# Part 6: Likes And Dislikes
-
----
-
+### Part 6: Likes And Dislikes
 - What is/are your favorite hobbies and pastimes?
 - What is your most treasured possession?
 - What is your favorite color?
@@ -112,11 +89,7 @@ http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 - How do you deal with stress?
 - Are you spontaneous, or do you always need to have a plan?
 - What are your pet peeves?
-
-# Part 7: Self Images And Etc.
-
----
-
+### Self Images And Etc.
 - Describe the routine of a normal day for you. How do you feel when this routine is disrupted?
 - What is your greatest strength as a person?
 - What is your greatest weakness?
