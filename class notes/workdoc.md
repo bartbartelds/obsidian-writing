@@ -71,6 +71,15 @@ Character promise - set up a desire, a problem, a challenge, a motivation that i
 	- the problems are changed and at the same time the stakes are raised
 	- 
 4. struggle to resolve new problems
-	- discoveryin
-1. execute
-2. epilogue
+	- discovering ways to resolve new problems furthers character arcs while providing plot momentum toward the big payoff 
+	- character development working through loss, impact, loss of hope, corruption
+	- spend some time here. 
+	- 
+5. execute
+	- 'it's now or never'
+	- the team executes. Not everybody makes it. 
+	- success, great stakes are addressed and resolved but leaves characters plots still open
+	- 
+6. epilogue
+	- wraps up character storylines
+	- bri
