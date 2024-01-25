@@ -38,7 +38,7 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 			- 2
 			- 3
 			- 4
-	- antagonists
+	- Antagonists
 		- big bad
 		- mini bosses
 			- 1
@@ -50,7 +50,9 @@ heist / supernatural heist // sabotage the thing, blow it all up, reinsert a hum
 ### Where (setting)
 A parallel version of Earth around 2050. AI has worked its way into every facet of everyday life. Direct human interaction has dropped to an all time low. What is real and what is not is nearly impossible to tell for most. 
 ### When (mood)
-Quiet slavery, servitude, defiance, rebellion
+35% of society - and rising: quiet slavery, non person, servitude, drone
+60% of society - and shrinking: conscious compliance, servitude, 
+5%: of society: active defiance, rebellion
 
 
 ### What happened(events of the plot)
