@@ -53,3 +53,14 @@ needs to establish tone, have motion, feature an active protagonist acting on a 
 *Refer to opening scenes of A new hope or indiana jones. *
 
 Character promise - set up a desire, a problem, a challenge, a motivation that is acted on / that will intersect with story developments later. 
+
+### "close the brackets"
+
+1. introduction
+	- introduce character and character challenges
+	- establish setting, tone, plot
+	- 
+	- explain the problems
+		- find allies to solve problems
+		- sub plots for ally development
+			- 
