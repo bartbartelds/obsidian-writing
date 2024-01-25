@@ -1,5 +1,7 @@
 http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 
+- ready player one
+- the peripheral
 
 ### The basics 
 - What is your full name?
