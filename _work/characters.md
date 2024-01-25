@@ -1,5 +1,6 @@
 http://masqueradeembraced.wikidot.com/wiki:character-questionnaire
 
+
 ### The basics 
 - What is your full name?
 - Where and when were you born?

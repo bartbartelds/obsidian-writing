@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/workdoc.md",
+                "file": "_work/characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/workdoc.md",
+                "file": "_work/characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/workdoc.md",
+                "file": "_work/characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/workdoc.md"
+                "file": "_work/characters.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ddc0ec4d5f19264b",
   "lastOpenFiles": [
-    "class notes/20140125 - II.md",
     "_work/workdoc.md",
+    "class notes/20140125 - II.md",
     "_work/characters.md",
     "_work/meta-outlines.md",
     "_work",
