@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddc0ec4d5f19264b",
+            "id": "999ea8d51e5a3a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/20140125 - II.md",
+                "file": "_work/characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/20140125 - II.md",
+                "file": "_work/characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/20140125 - II.md",
+                "file": "_work/characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/20140125 - II.md"
+                "file": "_work/characters.md"
               }
             }
           }
@@ -146,31 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddc0ec4d5f19264b",
+  "active": "999ea8d51e5a3a89",
   "lastOpenFiles": [
+    "class notes/workdoc.md",
     "_work/workdoc.md",
-    "class notes/20140125 - II.md",
     "_work/meta-outlines.md",
     "_work/characters.md",
     "_work",
+    "files/ana_func_4.png",
+    "class notes/meta-outlines.md",
     "conflict-files-obsidian-git.md",
     "class notes/20240118 - I.md",
+    "prompts/2023-49.md",
     "prompts/2024-03.md",
     "prompts/2024-01.md",
-    "prompts/2023-49.md",
-    "prompts",
-    "files/ana_func_4.png",
+    "markdown.md.md",
     "files/USVA CW Basics nov 23.pdf",
-    "Creative Writing usva 2023/2024-01.md",
-    "Creative Writing usva 2023/2024-03.md",
+    "files",
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
-    "files",
-    "untitled folder",
+    "class notes/20140125 - II.md",
     "class notes",
-    "Creative Writing usva 2023/2023-49.md",
-    "markdown.md.md",
-    "Creative Writing usva 2023"
+    "Creative Writing usva 2023/wk2.md",
+    "prompts"
   ]
 }
