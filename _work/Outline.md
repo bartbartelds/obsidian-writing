@@ -8,6 +8,8 @@ Phi has Asian blood - and has suffered all of the racism that comes with it. Eve
 
 Philomena - Phi for short - is a private investigator. That's what she tells herself. She could also be called a gun for hire, or a thief. She will generally do what she needs to, to stay afloat. She was orphaned during the flood of '81, when an oceanic tremor caused a tidal wave that wiped out a large swathe of the Connecticut Sprawl. The belongings she could rescue from the apartment where she was raised, are stacked in hastily packed boxed, piled unstable towers in the back room of her office, surrounding a rickety stretcher and a few cupboards of clothes. She's not supposed to live there, but she does. Building 407 is home to many smaller enterprises. The landlord is magnanimous, as long as she pays on time and lets him hang on to the illusion of having a shot. 
 
-Right now, Phi is working on an assassination. It's the biggest pay day she's had in a while, and she could use a break. And some actual food, instead of the synthetic slop she's been eating for the last weeks. Intel on the target was hazy at best. The customer, a business man named Seven, connected her to a 
+Right now, Phi is working on an assassination. It's the biggest pay day she's had in a while, and she could use a break. And some actual food, instead of the synthetic slop she's been eating for the last weeks. Intel on the target was hazy at best. The customer, a business man named Seven, connected her to a vac addict called Druno. 
+
+Vac is the oldest form of the vaccine for 
 
 
