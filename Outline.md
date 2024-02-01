@@ -4,7 +4,7 @@ Within the city, tensions have been rising between corporations, both foreign an
 
 Some people can work a job, but for those who are down in social credit, most careers on the straight and narrow are closed off forever. (Credit card / credit rating agencies have taken over personal screening in combination with a China-esque system of public monitoring - widening the gap between rich and poor, and creating a large underclass of people who will work for next to nothing in order to stay afloat.)
 
-Philomena - Phi for short - is a private investigator. That's what she tells herself. She could also be called a gun for hire, or a thief. She will generally do what she needs to, to stay afloat. She was orphaned during the flood of '81, when an oceanic tremor caused a tidal wave that wiped out a large swathe of the Connecticut Sprawl
+Philomena - Phi for short - is a private investigator. That's what she tells herself. She could also be called a gun for hire, or a thief. She will generally do what she needs to, to stay afloat. She was orphaned during the flood of '81, when an oceanic tremor caused a tidal wave that wiped out a large swathe of the Connecticut Sprawl. The belongings she could rescue from the apartment where she was raised, are stacked in hastily packed boxed, piled unstable towers in the back room of her office, surrounding a rickety stretcher and . She's not supposed to live there, but she is. The landlord is magnanimous, as long as she pays on time and lets him hang on to the illusion of having a shot. 
 
 
 
