@@ -1,1 +1,1 @@
-Philomena - Phi for short - is a private investigator, a gun for hire, a thief, operating in the sprawling metropolis of NNY in 2091. The city's domanen
+Philomena - Phi for short - is a private investigator, a gun for hire, a thief, operating in the metropolis of NNY in 2091. Within the city, tensions have been rising between corporations, both foreign and domestic, and what is left of administration. At street level, several gangs have risen to prominence, laying claim to blocks as they please. The richer neighbourhoods and valuable corporate sites are well kept by 
