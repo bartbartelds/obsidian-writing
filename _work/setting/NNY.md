@@ -1,0 +1,1 @@
+New New York - NNY for short - is what remains of the greatest city on earth after a string of calamitous natural disasters and the crash of the www at the end of the 21st century.  

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/characters.md",
+                "file": "_work/characters/characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09b97293a000e78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_work/characters/Main -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b4bea977a348a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_work/setting/NNY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/characters.md",
+                "file": "_work/setting/NNY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/characters.md",
+                "file": "_work/setting/NNY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/characters.md"
+                "file": "_work/setting/NNY.md"
               }
             }
           }
@@ -146,12 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "999ea8d51e5a3a89",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
+    "_work/characters/Main -.md",
+    "_work/setting/NNY.md",
+    "_work/setting",
+    "_work/characters/characters.md",
+    "_work/characters",
     "class notes/workdoc.md",
     "_work/workdoc.md",
     "_work/meta-outlines.md",
-    "_work/characters.md",
     "_work",
     "files/ana_func_4.png",
     "class notes/meta-outlines.md",
