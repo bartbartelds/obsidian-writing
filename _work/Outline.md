@@ -12,6 +12,10 @@ Right now, Phi is working on an assassination. It's the biggest pay day she's ha
 
 Vac is the oldest form of the vaccine for SARS-CoV-4. With a little pinch of love. It stuck around after it beat the pandemic it was developed to beat. It was cheap to manufacture, cheap to distribute. It was one of the few events where the price of human life so far eclipsed the cost of the cure that the system actually worked. It didn't take long for chemistry enthusiasts to discover enhancements that could be made using the drug as a jumping off point - a solid base for mind enhancing and experience boosting stimulants. The street name for the drug, vac, is not helpful since nearly every batch of vac is as unique as its manufacturer and distributor. Some have taken their product to extremes, with effects in users to boot, while others prefer a more mild experience and ditto clientele. 
 
-Phi is not a vac addict, but she does use stimulants, pain killers and very minor doses of vac if needed. Life is hard, and she's given up believing in a higher meaning in any of her endeavours. She does what she does to keep doing what she does, and te r 
+Phi is not a vac addict, but she does use stimulants, pain killers and very minor doses of vac if needed. Life is hard, and she's given up believing in a higher meaning in any of her endeavours. She does what she does to keep doing what she does, and the realisation of this and the sheer indifference she feels toward it and to society as a whole has birthed a cynicism in her that needs to be suppressed and forgotten every now and then if one if to keep getting on the treadmill. Especially when the eyes become too many, the voices too loud and the emptiness too oppressive. 
+
+
+
+
 
 
