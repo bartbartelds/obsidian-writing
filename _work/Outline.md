@@ -10,6 +10,6 @@ Philomena - Phi for short - is a private investigator. That's what she tells her
 
 Right now, Phi is working on an assassination. It's the biggest pay day she's had in a while, and she could use a break. And some actual food, instead of the synthetic slop she's been eating for the last weeks. Intel on the target was hazy at best. The customer, a business man named Seven, connected her to a vac addict called Druno. 
 
-Vac is the oldest form of the vaccine for SARS-CoV-4, a 
+Vac is the oldest form of the vaccine for SARS-CoV-4. With a little pinch of love. After the sixth pandemic rendered 
 
 
