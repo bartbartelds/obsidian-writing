@@ -10,6 +10,6 @@ Philomena - Phi for short - is a private investigator. That's what she tells her
 
 Right now, Phi is working on an assassination. It's the biggest pay day she's had in a while, and she could use a break. And some actual food, instead of the synthetic slop she's been eating for the last weeks. Intel on the target was hazy at best. The customer, a business man named Seven, connected her to a vac addict called Druno. 
 
-Vac is the oldest form of the vaccine for SARS-CoV-4. With a little pinch of love. After the sixth pandemic rendered 
+Vac is the oldest form of the vaccine for SARS-CoV-4. With a little pinch of love. It stuck around after it beat the pandemic it was developed to beat. It was cheap to manufacture, cheap to distribute. It was one of the few events where the price of human life so far eclipsed the cost of the cure that the system actually worked. It didn't take long for chemistry enthusiasts to discover enhancements that could be made using the drug as a jumping off point - a solid base for mind enhancing and experience boosti
 
 
