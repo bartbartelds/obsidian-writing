@@ -13,6 +13,10 @@ Interesting genres / tropes
 	- ancient evil
 
 
+## Notes:
+- [ ] focus on the characters first - flesh them out, build relationships, build character sheets. Give them a want, give them a need, give them an obstacle to overcome. 
+- [ ] 
+
 ## Initial take: 
 
 tech noir - setting / world building:
