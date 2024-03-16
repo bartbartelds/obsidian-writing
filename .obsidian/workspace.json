@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/1.md",
+                "file": "_work/characters/characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/1.md",
+                "file": "_work/characters/characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/1.md",
+                "file": "_work/characters/characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/1.md"
+                "file": "_work/characters/characters.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "5bdced47ad0a9dd5",
   "lastOpenFiles": [
-    "_work/Outline.md",
+    "_work/meta-outlines.md",
     "_work/1.md",
+    "_work/Outline.md",
     "_work/workdoc.md",
     "prompts/2024-03.md",
     "prompts/2024-01.md",
@@ -182,7 +183,6 @@
     "_work/characters/characters.md",
     "_work/characters/Main -.md",
     "_work/setting",
-    "_work/meta-outlines.md",
     "_work/characters",
     "_work",
     "conflict-files-obsidian-git.md",
