@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC - Niander.md",
+                "file": "_work/characters/PC - Niander.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC - Niander.md",
+                "file": "_work/characters/PC - Niander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC - Niander.md",
+                "file": "_work/characters/PC - Niander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC - Niander.md"
+                "file": "_work/characters/PC - Niander.md"
               }
             }
           }
@@ -219,10 +219,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2f80a0491d6b1e3",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
     "_work/characters/PC - Maxine.md",
-    "PC - Niander.md",
+    "_work/characters/PC - Niander.md",
     "_work/characters/NPC - Darius - Darren - Darwin.md",
     "_work/characters/PC - Fifth.md",
     "_work/characters/NPC - Hiro.md",
