@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW very short story contest.md",
+                "file": "competitions/GWstorieseverywhere.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW very short story contest.md",
+                "file": "competitions/GWstorieseverywhere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW very short story contest.md",
+                "file": "competitions/GWstorieseverywhere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW very short story contest.md"
+                "file": "competitions/GWstorieseverywhere.md"
               }
             }
           }
@@ -257,8 +257,8 @@
   },
   "active": "95609889f19c638e",
   "lastOpenFiles": [
+    "competitions/GW very short story contest.md",
     "competitions/GWstorieseverywhere.md",
-    "GW very short story contest.md",
     "_work/26-03.md",
     "competitions",
     "_work/characters/PC - Niander.md",
