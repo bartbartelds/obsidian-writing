@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26-03.md",
+                "file": "_work/26-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7338bcc418c70372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "competitions/efeg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26-03.md",
+                "file": "competitions/efeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26-03.md",
+                "file": "competitions/efeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26-03.md"
+                "file": "competitions/efeg.md"
               }
             }
           }
@@ -231,10 +243,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4328b36128b014e",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
+    "_work/26-03.md",
+    "competitions/efeg.md",
+    "competitions",
     "_work/characters/PC - Niander.md",
-    "26-03.md",
     "writing meetup",
     "_work/characters/PC - Maxine.md",
     "_work/characters/NPC - Darius - Darren - Darwin.md",
@@ -267,8 +281,6 @@
     "conflict-files-obsidian-git.md",
     "_work/characters.md",
     "Creative Writing usva 2023/2024-01.md",
-    "Creative Writing usva 2023/2024-03.md",
-    "untitled folder",
-    "Creative Writing usva 2023"
+    "untitled folder"
   ]
 }
