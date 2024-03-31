@@ -6,6 +6,6 @@ Each month we invite you to post a story on X (formerly known as Twitter) using 
 
 ## **March 2024:** _Ghosted_
 
-I vanished, and I'm so sorry. I would take the memories with me if I could. #GWstorieseverywhere
+Your blanket of warm acceptance is more than I can bear. I'm so sorry. I would take the memories with me if I could. #GWstorieseverywhere
 
 ## **April 2024:** _Otherworldly_
