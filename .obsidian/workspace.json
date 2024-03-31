@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "competitions/efeg.md",
+                "file": "competitions/GWstorieseverywhere.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "competitions/efeg.md",
+                "file": "competitions/GWstorieseverywhere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "competitions/efeg.md",
+                "file": "competitions/GWstorieseverywhere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "competitions/efeg.md"
+                "file": "competitions/GWstorieseverywhere.md"
               }
             }
           }
@@ -243,10 +243,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c26b649e629f571",
+  "active": "7338bcc418c70372",
   "lastOpenFiles": [
     "_work/26-03.md",
-    "competitions/efeg.md",
+    "competitions/GWstorieseverywhere.md",
     "competitions",
     "_work/characters/PC - Niander.md",
     "writing meetup",
