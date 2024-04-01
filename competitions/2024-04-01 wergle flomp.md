@@ -7,7 +7,7 @@ https://winningwriters.com/our-contests/wergle-flomp-humor-poetry-contest-free
 My father rarely speaks to me. 
 He usually sits, still like a tree,
 and gaze out over the yard,
-from the comfy chair where he sits guard.
+from the chair where he sits guard.
 
 'New dog, from a few houses down',
 he concludes with a vexed frown,
@@ -23,7 +23,9 @@ and alerts the pooch to pending threat.
 
 I wave meekly to the neighbour,
 as puppy runs toward his saviour,
-an apol
+startled by the sudden clangour, 
+
+
 
 NOT SUBMITTED
 One morose day in early spring, 
