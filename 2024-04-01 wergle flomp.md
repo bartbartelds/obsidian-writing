@@ -8,5 +8,11 @@ One morose morning, early spring,
 heavy clouds dissuaded birds to sing, 
 not a peep and not a chirp, 
 not a tweep and not a twirp,
+I stood and waited overlong, 
+for signs that spring had truly sprung. 
 
+In the distance loomed the city, 
+swallowing commuters without pity,
+only to without remorse,
+regurgitate them 
 
