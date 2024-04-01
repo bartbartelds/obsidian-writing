@@ -29,7 +29,15 @@ I'd bring round cookies later.
 Dad once was a loving figure, 
 but as his mind began to wither,
 the homestead he himself had built
-remained top of mind, as we had
+stayed fresh in mind, when all else wilted.
+
+The people living two doors down, 
+had only ever known his piercing frown.
+The neighbour waves back his light dismissal
+had gotten used to constant gristle. 
+
+In 
+
 
 
 
