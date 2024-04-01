@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-01 wergle flomp.md",
+                "file": "_work/26-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-01 wergle flomp.md",
+                "file": "_work/26-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-01 wergle flomp.md",
+                "file": "_work/26-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-01 wergle flomp.md"
+                "file": "_work/26-03.md"
               }
             }
           }
@@ -281,8 +281,9 @@
   },
   "active": "e757bff734cdd0cf",
   "lastOpenFiles": [
-    "competitions/2024-03-31 GWstorieseverywhere.md",
+    "_work/0 Prologue.md",
     "2024-04-01 wergle flomp.md",
+    "competitions/2024-03-31 GWstorieseverywhere.md",
     "competitions/2024-03-31 GW very short story contest.md",
     "01-04-2024.md",
     "_work/26-03.md",
@@ -295,7 +296,6 @@
     "_work/characters/NPC - Hiro.md",
     "_work/characters/Phi - philomena.md",
     "_work/characters/characters.md",
-    "_work/0 Prologue.md",
     "_work/workdoc.md",
     "_work/Outline.md",
     "_work/meta-outlines.md",
