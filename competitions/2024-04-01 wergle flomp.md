@@ -12,19 +12,19 @@ from the chair where he sits guard.
 'New dog, from a few houses down',
 he concludes with a vexed frown,
 spotting the mutt with sharp disdain
-its tail wagging happily in the rain,
+its tail wagging  in the rain,
 encroaching on the chicken coop,
 to say hi to the troupe. 
 
 Before I can try to calm him down,
 the window rattles with a pound, 
 knocking dust of wood beams overhead
-and alerts the pooch to pending threat. 
+and alerts the pooch to impending threat. 
 
 I wave meekly to the neighbour,
 as puppy runs toward his saviour,
 startled by the sudden clangour, 
-I'd bring round cookies later. 
+I'd bring 'round cookies later. 
 
 Dad once was a loving figure, 
 but as his mind began to wither,
@@ -63,10 +63,10 @@ and kept my father's grave unstained,
 but as I watched, I felt dissuaded,
 and allowed the procedure unabated.
 
-The body that lays there would have been livid
-but I recall so piercingly vivid
-my father's 
-he'd have found this hilarious
+The body that rests there would have been livid,
+but I recall so piercingly vivid,
+my father's laughing eyes, cried runny, 
+and his gruff voice saying "damn, that's funny"
 
 
 
