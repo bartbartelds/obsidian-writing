@@ -24,6 +24,12 @@ and alerts the pooch to pending threat.
 I wave meekly to the neighbour,
 as puppy runs toward his saviour,
 startled by the sudden clangour, 
+I'd bring round cookies later. 
+
+Dad once was a loving figure, 
+but as his mind began to wither,
+the homestead he himself had built
+remained top of mind, as we had
 
 
 
