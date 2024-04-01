@@ -46,7 +46,7 @@ one cold morning, in foul weather.
 The very next spring, we sold the place
 soon the house filled with kids to raise
 with love and life and pets galore
-they brought four full grown labradors
+they brought four terrier-labradors
 
 we asked them to please keep the grounds
 in the state they had found
@@ -57,6 +57,9 @@ The last time that I came around
 to spend some time on native ground
 I saw the four domestic terriers
 relieve themselves near the wild heather.
+
+I could have shooed the beasts away,
+and keep my father's grave unstained, 
 
 
 
