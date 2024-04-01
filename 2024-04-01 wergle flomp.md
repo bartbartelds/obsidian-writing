@@ -25,7 +25,14 @@ emptied themselves without omission,
 and struggle home at evensong, 
 that morose day, early spring. 
 
-The city paid seasons no mind, 
-singular in its 
+The city pays seasons little mind, 
+as, singular in constant grind, 
+it churns and roils,
+and burns and boils, 
+consuming every little thing, 
+that morose day, early spring. 
+
+
+
 
 
