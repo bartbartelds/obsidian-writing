@@ -18,9 +18,12 @@ until finally frail and utterly drained,
 only to, without grieving,
 regurgitate them upon the evening.
 
-Every day, I watched this distant dance,
+I watched this daily distant dance,
 where as if within a trance, 
-people came of their own voli
+people of their own volition
+sought to be 
+and struggle home at evensong, 
+one morose day, early spring. 
 
 
 
