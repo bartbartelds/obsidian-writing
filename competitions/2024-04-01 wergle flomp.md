@@ -53,6 +53,11 @@ in the state they had found
 they promised they most surely would
 and set about their parenthood
 
+The last time that I came around
+to spend some time on native ground
+I saw the four domestic terriers
+relieve themselves near the wild heather.
+
 
 
 
