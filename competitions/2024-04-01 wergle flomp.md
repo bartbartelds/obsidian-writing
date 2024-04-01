@@ -18,8 +18,12 @@ to say hi to the troupe.
 
 Before I can try to calm him down,
 the window rattles with a pound, 
-which knocks 
+knocking dust of wood beams overhead
+and alerts the pooch to pending threat. 
 
+I wave meekly to the neighbour,
+as puppy runs toward his saviour,
+an apol
 
 NOT SUBMITTED
 One morose day in early spring, 
