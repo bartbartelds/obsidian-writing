@@ -9,10 +9,12 @@ He usually sits, still like a tree,
 and gaze out over the yard,
 from the comfy chair where he sits guard.
 
-'New dog, few houses down',
-he concludes with vexed frown,
-having spotterd the 
-'Need to watch the chicken coup'
+'New dog, from a few houses down',
+he concludes with a vexed frown,
+spotting the mutt with sharp disdain
+its tail wagging happily in the rain
+encroaching on the chicken coop
+
 
 
 
