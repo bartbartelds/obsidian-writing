@@ -5,4 +5,8 @@ https://winningwriters.com/our-contests/wergle-flomp-humor-poetry-contest-free
 
 
 One morose morning, early spring, 
-with clouds dissuading birds to sing, 
+heavy clouds dissuaded birds to sing, 
+not a peep and not a chirp, 
+not a tweep and not a twirp,
+
+
