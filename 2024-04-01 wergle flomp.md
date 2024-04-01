@@ -8,14 +8,14 @@ One morose morning, early spring,
 heavy clouds dissuaded birds to sing, 
 not a peep and not a chirp, 
 not a tweep and not a twirp,
-I stood and waited overlong, 
+I watched and waited overlong, 
 for signs that spring had truly sprung. 
 
 In the distance loomed the city, 
 swallowing commuters without pity,
 and gorging on them throughout the day,
 until utterly frail and drained,
-only to without grieving,
+only to, without grieving,
 regurgitate them upon the evening.
 
 
