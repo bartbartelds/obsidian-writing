@@ -12,10 +12,13 @@ from the comfy chair where he sits guard.
 'New dog, from a few houses down',
 he concludes with a vexed frown,
 spotting the mutt with sharp disdain
-its tail wagging happily in the rain
-encroaching on the chicken coop
+its tail wagging happily in the rain,
+encroaching on the chicken coop,
+to say hi to the troupe. 
 
-
+Before I can try to calm him down,
+the window rattles with a pound, 
+which knocks 
 
 
 NOT SUBMITTED
