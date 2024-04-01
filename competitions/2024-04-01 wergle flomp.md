@@ -61,9 +61,12 @@ relieve themselves near the wild heather.
 I could have shooed the beasts away,
 and kept my father's grave unstained, 
 but as I watched, I felt dissuaded,
+and allowed the procedure unabated.
 
-the body buried there would be livi
-
+The body that lays there would have been livid
+but I recall so piercingly vivid
+my father's 
+he'd have found this hilarious
 
 
 
