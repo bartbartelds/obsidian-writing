@@ -14,11 +14,13 @@ for signs that spring had truly sprung.
 In the distance loomed the city, 
 swallowing commuters without pity,
 and gorging on them throughout the day,
-until utterly frail and drained,
+until finally frail and utterly drained,
 only to, without grieving,
 regurgitate them upon the evening.
 
-
+Every day, I watched this distant dance,
+where as if within a trance, 
+people came of their own voli
 
 
 
