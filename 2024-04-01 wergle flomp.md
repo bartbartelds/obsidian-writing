@@ -13,6 +13,12 @@ for signs that spring had truly sprung.
 
 In the distance loomed the city, 
 swallowing commuters without pity,
-only to without remorse,
-regurgitate them 
+and gorging on them throughout the day,
+until utterly frail and drained,
+only to without grieving,
+regurgitate them upon the evening.
+
+
+
+
 
