@@ -19,7 +19,7 @@ only to, without grieving,
 regurgitate them upon the evening.
 
 I watched this daily distant dance,
-where as if within a trance, 
+where as if in a trance, 
 people of their own volition
 sought to be 
 and struggle home at evensong, 
