@@ -36,7 +36,9 @@ had only ever known his piercing frown.
 The neighbour waves back his light dismissal
 had gotten used to constant gristle. 
 
-In 
+After dad had breathed his last, 
+and I made peace with recent past, 
+we buried him in his back yard
 
 
 
