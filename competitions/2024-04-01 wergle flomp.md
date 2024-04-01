@@ -59,7 +59,10 @@ I saw the four domestic terriers
 relieve themselves near the wild heather.
 
 I could have shooed the beasts away,
-and keep my father's grave unstained, 
+and kept my father's grave unstained, 
+but as I watched, I felt dissuaded,
+
+the body buried there would be livi
 
 
 
