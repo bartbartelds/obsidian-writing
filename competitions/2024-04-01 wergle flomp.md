@@ -38,10 +38,16 @@ had gotten used to constant gristle.
 
 After dad had breathed his last, 
 and I made peace with recent past, 
-we ended his unending watch
-toasted with well-aged scotch
+we ended his unending watch,
+toasted with well-aged scotch,
 and buried him underneath the heather
-one cold mo 
+one cold morning, in foul weather. 
+
+The very next spring, we sold the place
+a couple filled the house with kids to raise
+with 
+we asked them not to change the state
+
 
 
 
