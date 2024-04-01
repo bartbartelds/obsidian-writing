@@ -21,9 +21,11 @@ regurgitate them upon the evening.
 I watched this daily distant dance,
 where as if in a trance, 
 people of their own volition
-sought to be 
+emptied themselves without omission, 
 and struggle home at evensong, 
-one morose day, early spring. 
+that morose day, early spring. 
 
+The city paid seasons no mind, 
+singular in its 
 
 
