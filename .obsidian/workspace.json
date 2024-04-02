@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-04-2024.md",
+                "file": "2024-04-04 Writer's Alliance of Gainesville.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98523e7b8131666c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "competitions/2024-04-01 wergle flomp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-04-2024.md",
+                "file": "competitions/2024-04-01 wergle flomp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-04-2024.md",
+                "file": "competitions/2024-04-01 wergle flomp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-04-2024.md"
+                "file": "competitions/2024-04-01 wergle flomp.md"
               }
             }
           }
@@ -159,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8f277d08ea8d55",
+  "active": "98523e7b8131666c",
   "lastOpenFiles": [
+    "2024-04-05 Furious fiction - writer's centre.md",
     "2024-04-04 Writer's Alliance of Gainesville.md",
+    "01-04-2024.md",
     "competitions/2024-04-01 wergle flomp.md",
     "_work/2.md",
     "_work/characters/PC - Cat.md",
@@ -174,7 +188,6 @@
     "_work/Outline.md",
     "_work/0 Prologue.md",
     "competitions/2024-03-31 GW very short story contest.md",
-    "01-04-2024.md",
     "competitions",
     "writing meetup",
     "_work/characters/NPC - Hiro.md",
@@ -192,7 +205,6 @@
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
-    "class notes/20240118 - I.md",
     "class notes",
     "_work/setting",
     "_work/characters",
