@@ -1,3 +1,3 @@
 4/4 https://writersallianceofgainesville.submittable.com/submit
 
-"Where do we go from here?"
+"Where do we go from here?" Words not spoken, but rather heard, cascading through the candlelit living room. They formed the conclusion of a radio play written and narrated by William Mosely, a mostly forgotten playwright who made moderate local waves in the northeast, back in the '40s. The play carried the same title as its ending, and just like i  mostly ignored, 
