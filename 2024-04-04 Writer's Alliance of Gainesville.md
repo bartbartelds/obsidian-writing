@@ -2,4 +2,6 @@
 
 "Where do we go from here?" Words not spoken, but rather heard, cascading through the candlelit living room. They formed the conclusion of a radio play written and narrated by William Mosely, a mostly forgotten playwright who made moderate local waves in the northeast, back in the '40s. The play carried the same title as its ending. Back in the day it was mostly ignored by its listeners. This trend has mostly persisted. 
 
-Harry was not quite asleep
+Harry was not quite asleep. He had allowed himself to be lead into deep relaxation, slumped down in an arm chair, and kept what remained of his focus on the mercurial flame that sat atop the candle on the small coffee table, amidst a mound of unsorted manuscripts, half-read books and the odd newspaper. The question made him smirk, nearly scowl. 
+
+He groaned upright, and settled into a seating position. The struggle made the veins in his neck thrum with the elevated pulse of his heart. 
