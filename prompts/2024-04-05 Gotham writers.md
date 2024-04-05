@@ -31,4 +31,7 @@ She went up ahead of me, ever up the square stairs, each small section of ascent
 
 Up on the roof she turned to me, whirling around with arms stretched out, the city as her canvas. I stepped closer. My eyes met hers. As our lips met, only we remained - the rest went dark. 
 
-Raizy: 
+Raizy: ? 
+Cooper: this is where the lights dies
+Sharon: 
+Kinnery: 
