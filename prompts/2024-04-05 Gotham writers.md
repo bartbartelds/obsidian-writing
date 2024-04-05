@@ -1,4 +1,4 @@
-Shaky Ground - 15 minutes
+Prompt 1: Shaky Ground - 15 minutes
 
 Groningen, north. 
 
@@ -19,3 +19,9 @@ Fran: prayer
 Stephen: dog
 Amy: song
 Vimi: nun
+
+
+Prompt 2: Eclipse hooky - 15 minutes
+
+A friend of a friend of a friend told me about it, the upcoming eclipse. We joked a bit about how freaked out 
+
