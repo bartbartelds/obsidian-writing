@@ -6,7 +6,7 @@ There's a village, just a couple of miles north of here. A small village, like m
 
 The village lays in ruins now, along with many like it. With fissures ripped in walls, brick and mortar torn apart, with barns collapsed and churches crumbled, stores vacated and people gone, moved on to greener pastures. The ones who stayed behind, live a life of warning tape, supporting struts, uncertainty and despair. The weather was lovely, the oaks stood tall. Which was somehow the saddest of it all. 
 
-The cause of the collapse was explained to the locals in clinical terms. They bore no guilt to what had befallen them. Due to the mining of natural gas, the earth had shifted far beneath them, their houses, their villages and schools, barns and cattle. It had destroyed them, without warning. The most clinical element of all came at the end: there would be no help for those who had chosen to live on shaky ground. 
+The cause of the collapse was explained to the locals in clinical terms. They bore no guilt. Due to the mining of natural gas, the earth had shifted far beneath them, their houses, their villages and schools, barns and cattle. It had destroyed them, without warning. The most clinical element of all came at the end: there would be no help for those who had chosen to live on shaky ground. 
 
 
 Shirley: gym, travels
@@ -16,6 +16,6 @@ Stephanie: parable
 Vishney: holding hands with strangers
 Dave: rhyme, worked very well 
 Fran: prayer
-Stephen: 
-Amy:
+Stephen: dog
+Amy: song
 Vimi:
