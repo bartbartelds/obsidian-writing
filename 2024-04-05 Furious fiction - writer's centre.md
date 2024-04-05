@@ -9,8 +9,6 @@
 - **Your story must include the words POST, TEAR and THUNDER.**  
     (Longer words are okay as long as they BEGIN with these words above.)
 
-**Embrace the creative challenge! We also love seeing you share your progress over the weekend by tagging #furiousfiction on your socials.**
-
 Your story must be a maximum of 500 words. Hyphenated words and contractions each count as just one word – and we’ll be featuring our TOP PICK and a selection of our favourite stories at the end of the month.
 
 ---
