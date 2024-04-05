@@ -25,4 +25,8 @@ Prompt 2: Eclipse hooky - 15 minutes
 
 She beckoned me, under her desk, making sure nobody saw. I noticed her efforts at the second of third try, just when her smile was starting to show signs of frustration, jaw clenching slightly, only to relax in joy as I perked a brow. I nodded, unsure of what I was getting myself into. 
 
-She got up, slipped into the corridor 
+She got up, slipped into the corridor connecting cubicles, and waiting for me at the end of the main hallway to the cafeteria. I sheepishly followed, leaving my work unattended and untidy. She scanned left and right for casual onlookers, and then grabbed my hand, yanking my enthusiastically toward the fire escape before I could so much as yelp. 
+
+She went up ahead of me, ever up the square stairs, each small section of ascent interspersed with a level crossing. The walls were rough concrete, unfinished, the lights harsh and fluorescent. The view was great. 
+
+Up on the roof she turned to me, whirling around with arms stretched out, the city as her canvas. I stepped closer. When my eyes met hers, all went dark and our lips met. 
