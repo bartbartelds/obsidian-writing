@@ -31,4 +31,8 @@ question
 something being pulled
 post, tear, thunder
 
-"Not tonight, ok?" Phi asked meekly, 
+"Not tonight, ok?" 
+Phi pulled her head between her knees. Her back quivered as she exhaled, her breath warm and damp. Fifth draped a blanket over her, capturing both heat and moisture. 
+"We'll talk tomorrow. Rest now - you're on the verge of ..."
+She heard his monotone voice trail off, become one with the ambient noise of machinery, and then nothing. 
+
