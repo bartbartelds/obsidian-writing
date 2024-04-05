@@ -9,13 +9,13 @@ The village lays in ruins now, along with many like it. With fissures ripped in 
 The cause of the collapse was explained to the locals in clinical terms. They bore no guilt to what had befallen them. Due to the mining of natural gas, the earth had shifted far beneath them, their houses, their villages and schools, barns and cattle. It had destroyed them, without warning. The most clinical element of all came at the end: there would be no help for those who had chosen to live on shaky ground. 
 
 
-Shirley: 
+Shirley: gym, travels
 Robin: 
-Naomi: 
+Naomi: succubus
 Stephanie: parable
 Vishney: holding hands with strangers
-Dave: 
-Fran: 
-Stephen:
+Dave: rhyme, worked very well 
+Fran: prayer
+Stephen: 
 Amy:
 Vimi:
