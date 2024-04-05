@@ -23,5 +23,6 @@ Vimi: nun
 
 Prompt 2: Eclipse hooky - 15 minutes
 
-A friend of a friend of a friend told me about it, the upcoming eclipse. We joked a bit about how freaked out 
+She beckoned me, under her desk, making sure nobody saw. I noticed her efforts at the second of third try, just when her smile was starting to show signs of frustration, jaw clenching slightly, only to relax in joy as I perked a brow. I nodded, unsure of what I was getting myself into. 
 
+She got up, slipped into the corridor 
