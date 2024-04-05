@@ -12,3 +12,10 @@ The cause of the collapse was explained to the locals in clinical terms. They bo
 Shirley: 
 Robin: 
 Naomi: 
+Stephanie: parable
+Vishney: holding hands with strangers
+Dave: 
+Fran: 
+Stephen:
+Amy:
+Vimi:
