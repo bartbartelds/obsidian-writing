@@ -40,4 +40,7 @@ Example: The Wizard of Oz
 ## Structure
 250 words flash fiction
 
-Opening: where we meet the character
+Opening - 3 sentences, in no particular order: 
+- who: introduce the character
+- where: 
+- genre
