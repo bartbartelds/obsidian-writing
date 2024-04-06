@@ -67,5 +67,7 @@ Phi would crush the half-empty coffee can, but only drives grit and rocks deeper
 "I'm sure they are."
 Fifth levels his gaze on her, causing black residue to run trails down his cheeks. 
 "I'll handle it, Phi. Meds and mask are in the other room. Get some rest."
-"... just ..."
-"I will."
+"... just ..." she whispers, shaking her head. 
+"I will." 
+
+Fifth stands and walks over to a bookcase stacked with cases of ammunition. She watches as he pushes a load-out into 
