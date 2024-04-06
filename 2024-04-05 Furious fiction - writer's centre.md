@@ -35,7 +35,6 @@ post, tear, thunder
 Phi pulls her head between her knees. Her back quivers as she exhales, her breath warm and damp. Fifth drapes a blanket over her, capturing both heat and moisture. 
 "We'll talk tomorrow. Rest now - you're on the verge of ..."
 She hears his monotone voice trail off, become one with the ambient noise of machinery, and then nothing. 
-
 The next afternoon came quicker than expected. Phi stirs in a meek attempt to liberate herself from the mound of laundry and bed linnen she found herself under. She snarls but is ultimately successful in emerging from her cloth chrysalis. 
 "Too much of a good thing." She pants, wiping sweat off her brow. The room is a war zone, a temporary haven for vagrants, junkies, rapists. She looks back at the sweaty outline she had produced last night, under the overt covers.
 "Rough night, huh?" Fifth enters from a side room, and carries two cans of dog food filled with a black liquid to a cooler serving as side table. "There."
@@ -43,5 +42,6 @@ The next afternoon came quicker than expected. Phi stirs in a meek attempt to li
 "Hmm?"
 "You don't drink coffee. Told me it did things to your stomach."
 "The left one is yours."
-Phi reaches out and lets her palm graze the right can. Cold. Viscous. She brings the left can of coffee to her lips, and sees a globule of something float in it. She squints as she drinks. Hot liquid, grit and several substances that have no business being there cross her asophacus. 
+Phi reaches out and lets her palm graze the right can. Cold. Viscous. She brings the left can of coffee to her lips, and sees a globule of something float in it. She squints as she drinks. Hot liquid, grit and several substances that have no business being there cross her tongue. 
+" "
 
