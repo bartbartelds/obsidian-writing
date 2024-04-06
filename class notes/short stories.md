@@ -38,8 +38,14 @@ Example: The Wizard of Oz
 ```
 
 ## Length
+How long your story will likely be, is largely dependent on how many elements you want to address in it. As a rule of thumb: 
 ```
-L = ((C + S)* 750 * M)
+L = ((C + S) * 750 * M) / 1.5
+
+L = Length
+C = Characters
+S = Stages / Scenic locations
+M = MICE threads
 ```
 ## Structure
 250 words flash fiction
@@ -48,3 +54,6 @@ Opening - 3 sentences, in no particular order:
 - who: introduce the character, attach an archetype to him/her to define their attitude(s), introduced through an action. What are they doing? 
 - where: location, introduced through to a sensory detail
 - genre: mention something specific and unique, that grounds the story in a genre
+
+Introduce the conflict - 2 sentences
+- 
