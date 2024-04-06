@@ -55,4 +55,10 @@ Fifth leans over to pull his can closer, and loads a dropper just under its serv
 He was right - she felt it all over. Bruises and cuts on her left shoulder, shards of glass lodged in her quadriceps, her hands blasted with dirt and grit embedded in her flesh, her neck and jaw near seized when talking. 
 
 "All in a day's work."
-""
+"You can't even stand. I'll fill the tank, soak you for a while."
+Phi sputters and coughs a gulp of syn coffee. "... What? No, I have to get back out there. I'll be back toni..."
+"I wasn't asking." Fifth interjects, still feeding droplets of fluid into his eyes. His words are calm, non-negotiable. 
+"I promised C I'd be back for the handover."
+"I'll go."
+"WHAT?"
+Fifth remains quiet
