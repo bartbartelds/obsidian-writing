@@ -30,3 +30,47 @@ The job of any story’s opening – be it 500 words or 500,000 – is to engage
 question
 something being pulled
 post, tear, thunder
+
+push/pull on a cliff to total destruction
+relationship pull
+pulling weight
+pull
+
+- pull a boner
+- pull a fast one
+- pull away
+- pull back
+- pull down
+- pull in
+- pulling teeth
+- pull in one's horns
+- pull no punches
+- pull off
+- pull oneself together
+- pull oneself up by the bootstraps
+- pull one's punches
+- pull one's weight
+- pull out
+- pull out all the stops
+- pull out of a hat
+- pull over
+- pull rank
+- pull round
+- pull someone's chain
+- pull someone's leg
+- pull something
+- pull strings
+- pull the plug on
+- pull the rug out from under
+- pull the wool over someone's eyes
+- pull through
+- pull together
+- pull up
+- pull up stakes
+- pull wires
+
+also see:
+
+- fast one, pull a
+- have pull with
+- like pulling teeth
