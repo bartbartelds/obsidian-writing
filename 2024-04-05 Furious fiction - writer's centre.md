@@ -61,4 +61,11 @@ Phi sputters and coughs a gulp of syn coffee. "... What? No, I have to get back 
 "I promised C I'd be back for the handover."
 "I'll go."
 "WHAT?"
-Fifth remains quiet
+Fifth responds. "I'll handle it in your stead. Not like you're worth a whole lot in your current state anyway. We'll go splitsies on the cheque, how's that?"
+Phi would crush the half-empty coffee can, but only drives grit and rocks deeper into her flesh in the attempt. She sighs in resignation. 
+"Just be careful. These guys are hopped up on all kinds of crazy."
+"I'm sure they are."
+Fifth levels his gaze on her, causing black residue to run trails down his cheeks. 
+"I'll handle it, Phi. Meds and mask are in the other room. Get some rest."
+"... just ..."
+"I will."
