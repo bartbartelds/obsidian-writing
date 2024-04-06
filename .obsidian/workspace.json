@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md",
+                "file": "_work/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be2a9481a2bb54c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_work/3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md",
+                "file": "_work/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md",
+                "file": "_work/3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md"
+                "file": "_work/3.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c08d26d7ee3deaca",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
-    "2024-04-04 Writer's Alliance of Gainesville.md",
+    "_work/2.md",
+    "_work/3.md",
     "2024-04-05 Furious fiction - writer's centre.md",
+    "2024-04-04 Writer's Alliance of Gainesville.md",
     "competitions/2024-04-01 wergle flomp.md",
     "prompts/2024-04-05 Gotham writers.md",
     "01-04-2024.md",
-    "_work/2.md",
     "_work/characters/PC - Cat.md",
     "_work/1.md",
     "competitions/2024-03-31 GWstorieseverywhere.md",
@@ -179,7 +193,6 @@
     "files/USVA CW Basics nov 23.pdf",
     "files",
     "class notes/20240215 - V.md",
-    "class notes/20240208 - IV.md",
     "class notes",
     "_work/setting",
     "_work/characters",
