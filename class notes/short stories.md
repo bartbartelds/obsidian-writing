@@ -27,5 +27,17 @@ When using multiple MICE elements, you should try to open and resolve them, with
 
 Example: The Wizard of Oz
 ```
-<C> 
+<C> Dorothy is unhappy with her life as a common Kansas farm girl, and pines for adventure
+<E> Tornado! 
+<M> Welcome to Oz!
+<I> What do the ruby slippers do?
+</I> Glenda shows up and explains the slippers can take Dorothy home
+</M> Leaving Oz
+</E> The mess of the tornado has been cleaned up
+</C> Dorothy realises she could find adventure in her own back yard
 ```
+
+## Structure
+250 words flash fiction
+
+Opening: where we meet the character
