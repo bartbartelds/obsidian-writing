@@ -32,7 +32,9 @@ something being pulled
 post, tear, thunder
 
 "Not tonight, ok?" 
-Phi pulled her head between her knees. Her back quivered as she exhaled, her breath warm and damp. Fifth draped a blanket over her, capturing both heat and moisture. 
+Phi pulls her head between her knees. Her back quivers as she exhales, her breath warm and damp. Fifth drapes a blanket over her, capturing both heat and moisture. 
 "We'll talk tomorrow. Rest now - you're on the verge of ..."
-She heard his monotone voice trail off, become one with the ambient noise of machinery, and then nothing. 
+She hears his monotone voice trail off, become one with the ambient noise of machinery, and then nothing. 
 
+The next afternoon came quicker than expected. Phi stirs in a meek attempt to liberate herself from the mound of laundry and bed linnen she found herself under. She snarls but is ultimately successful in emerging from her cloth chrysalis. 
+"Too much of a good thing." she pants, wiping sweat off her brow 
