@@ -74,3 +74,24 @@ also see:
 - fast one, pull a
 - have pull with
 - like pulling teeth
+
+
+deaf as a post; from pillar to post; keep posted.
+
+
+- tear apart
+- tear around
+- tear at
+- tear away
+- tear down
+- tear into
+- tear it
+- tear off
+- tear one's hair
+
+also see:
+
+- rip (tear) into
+- wear and tear
+
+Also see undertearstorn.
