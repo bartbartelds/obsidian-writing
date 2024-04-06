@@ -37,4 +37,5 @@ Phi pulls her head between her knees. Her back quivers as she exhales, her breat
 She hears his monotone voice trail off, become one with the ambient noise of machinery, and then nothing. 
 
 The next afternoon came quicker than expected. Phi stirs in a meek attempt to liberate herself from the mound of laundry and bed linnen she found herself under. She snarls but is ultimately successful in emerging from her cloth chrysalis. 
-"Too much of a good thing." she pants, wiping sweat off her brow 
+"Too much of a good thing." She pants, wiping sweat off her brow. The room is a war zone, a temporary haven for vagrants, junkies, rapists. She looks back at the sweaty outline she had produced last night, under the overt covers.
+"Rough night, huh?" Fifth enters from a side room, and carries two cans of dog food filled with a black warm liquid
