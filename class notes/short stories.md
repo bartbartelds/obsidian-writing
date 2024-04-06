@@ -37,10 +37,14 @@ Example: The Wizard of Oz
 </C> Dorothy realises she could find adventure in her own back yard
 ```
 
+## Length
+```
+L = ((C + S)* 750 * M)
+```
 ## Structure
 250 words flash fiction
 
 Opening - 3 sentences, in no particular order: 
 - who: introduce the character, attach an archetype to him/her to define their attitude(s), introduced through an action. What are they doing? 
 - where: location, introduced through to a sensory detail
-- genre: specific and u
+- genre: mention something specific and unique, that grounds the story in a genre
