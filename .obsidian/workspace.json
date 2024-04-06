@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f268373f104a8dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class notes/short stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fca8aaeb839a33ac",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md",
+                "file": "class notes/short stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md",
+                "file": "class notes/short stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md"
+                "file": "class notes/short stories.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be2a9481a2bb54c0",
+  "active": "f268373f104a8dac",
   "lastOpenFiles": [
-    "_work/3.md",
     "2024-04-05 Furious fiction - writer's centre.md",
+    "class notes/short stories.md",
+    "_work/3.md",
     "2024-04-04 Writer's Alliance of Gainesville.md",
     "_work/1.md",
     "_work/2.md",
@@ -192,7 +206,6 @@
     "files/ana_func_4.png",
     "files/USVA CW Basics nov 23.pdf",
     "files",
-    "class notes/20240215 - V.md",
     "class notes",
     "_work/setting",
     "_work/characters",

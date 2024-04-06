@@ -26,6 +26,9 @@ The job of any story’s opening – be it 500 words or 500,000 – is to engage
 
 ## Entry
 
+Short story:
+
+
 500 words
 question
 something being pulled
