@@ -43,5 +43,13 @@ The next afternoon came quicker than expected. Phi stirs in a meek attempt to li
 "You don't drink coffee. Told me it did things to your stomach."
 "The left one is yours."
 Phi reaches out and lets her palm graze the right can. Cold. Viscous. She brings the left can of coffee to her lips, and sees a globule of something float in it. She squints as she drinks. Hot liquid, grit and several substances that have no business being there cross her tongue. 
-" "
+"It's good" Phi nods, stifling a cough. 
+
+Fifth leans over to pull his can closer, and loads a dropper just under its service. An obsidian liquid fills the tube. He then tilts his head back, and administers drops into his eyes. 
+"Well?"
+"Well what?"
+"Last night?"
+"Just business. Same old, same old. Nothing to report, officer."
+"You look like shit. Probably feel like shit too."
+
 
