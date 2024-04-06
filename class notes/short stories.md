@@ -41,6 +41,6 @@ Example: The Wizard of Oz
 250 words flash fiction
 
 Opening - 3 sentences, in no particular order: 
-- who: introduce the character
-- where: 
-- genre
+- who: introduce the character, attach an archetype to him/her to define their attitude(s), introduced through an action. What are they doing? 
+- where: location, introduced through to a sensory detail
+- genre: specific and u
