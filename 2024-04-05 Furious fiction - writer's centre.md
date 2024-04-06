@@ -70,4 +70,8 @@ Fifth levels his gaze on her, causing black residue to run trails down his cheek
 "... just ..." she whispers, shaking her head. 
 "I will." 
 
-Fifth stands and walks over to a bookcase stacked with cases of ammunition. She watches as he pushes a load-out into 
+Fifth stands and walks over to a bookcase stacked with cases of ammunition. She watches as he pushes a load-out into his wrists and lower arms. 
+"You'd better be in that tank when I get back, Phi."
+She waves dismissively, downing the last of her coffee. "Yeah, yeah. Don't make me regret this, Fifth. I've pinged C so she doesn't waste you on sight."
+
+He puts on sleeveless tactical armor and nods. 
