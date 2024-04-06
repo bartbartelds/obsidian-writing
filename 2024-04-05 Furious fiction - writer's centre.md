@@ -52,4 +52,7 @@ Fifth leans over to pull his can closer, and loads a dropper just under its serv
 "Just business. Same old, same old. Nothing to report, officer."
 "You look like shit. Probably feel like shit too."
 
+He was right - she felt it all over. Bruises and cuts on her left shoulder, shards of glass lodged in her quadriceps, her hands blasted with dirt and grit embedded in her flesh, her neck and jaw near seized when talking. 
 
+"All in a day's work."
+""
