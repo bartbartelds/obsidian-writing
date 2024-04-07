@@ -10,3 +10,4 @@ https://press53.com/53word-story-contest
 
 Write a 53-word story about **a band**
 
+Jon stormed out, in fury. Pat and Jake left shortly to find him. I stayed behind, unsure of what to do. 
