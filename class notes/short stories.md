@@ -50,14 +50,18 @@ M = MICE threads
 ## Structure
 250 words flash fiction
 
-Opening - 3 sentences, in no particular order: 
+1. Opening - 3 sentences, in no particular order: 
 - who: introduce the character, attach an archetype to him/her to define their attitude(s), introduced through an action. What are they doing? 
 - where: location, introduced through to a sensory detail
 - genre: mention something specific and unique, that grounds the story in a genre
 
-Introduce the conflict and the try/fail cycle - 2 sentences
+2. Introduce the conflict and the try/fail cycle - 2 sentences
 - what is the character trying to do and why
 - what is stopping them from succeeding
 - in flash fiction / short form writing, you can imply several try/fail cycles have already happened
 
-Look at the conflict/complication you came up with above, and identify the MICE element you're dealing with. 
+3. Look at the conflict/complication you came up with above, and identify the MICE element you're dealing with. Then operate the try/fail cycle - have the character try, fail and adapt. 5 sentences
+- YES, but -> the character makes progress but a new complication pops up
+- NO, and -> the character does not make progress, and is pushed back further from it. 
+
+4. 
