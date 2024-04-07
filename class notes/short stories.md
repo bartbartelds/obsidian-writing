@@ -68,7 +68,7 @@ M = MICE threads
 - YES, and -> the character succeeds and finds a bonus on top of it
 - NO, but -> the character fails but in doing so discovers another outcome
 
-6. Close out the MICE elements in order. Things have changes over the course of the story, and the reader must now be grounded in the new reality. You can do this by taking the results from the cycles, and mirroring the introduction:
+6. Close out the MICE elements in order. Things have changes over the course of the story, and the reader must now be grounded in the new reality. You can do this by taking the results from the cycles. 3 sentences, use mirroring of the introduction:
 - Character: action / reflection
-- Where:
-- Genre: highligh
+- Where: again, mention a sensory details
+- Genre: highlight the current/new mood
