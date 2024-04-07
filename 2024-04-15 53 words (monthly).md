@@ -9,3 +9,4 @@ https://press53.com/53word-story-contest
 **Our Prompt for April:** Of the many collective nouns used for animals—crash, herd, conspiracy, business, murder, prickle, fever, shiver, and galaxy, to name a few—one obvious one seems to be missing. Humans use it often in unifying places: marriages, people, music, colors and striations, even machinery, and anything else we need just a bit tighter.
 
 Write a 53-word story about **a band**
+
