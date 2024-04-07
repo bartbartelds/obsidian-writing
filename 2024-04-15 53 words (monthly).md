@@ -10,4 +10,4 @@ https://press53.com/53word-story-contest
 
 Write a 53-word story about **a band**
 
-Jon stormed out, in fury. Pat and Jake left shortly thereafter to find him. I stayed behind and in doubt. Later, it no longer mattered. We lost each other countless times after, when the world got in the way. But we always found our way back, changed perhaps, but back nonetheless.
+Jon stormed out, in fury. Pat and Jake left shortly thereafter, in search. I stayed behind and in doubt. Later, it no longer mattered. We lost each other countless times after, when the world got in the way. But we found our way back, always changed, and long since the music stopped. 
