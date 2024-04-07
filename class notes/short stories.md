@@ -55,5 +55,9 @@ Opening - 3 sentences, in no particular order:
 - where: location, introduced through to a sensory detail
 - genre: mention something specific and unique, that grounds the story in a genre
 
-Introduce the conflict - 2 sentences
-- 
+Introduce the conflict and the try/fail cycle - 2 sentences
+- what is the character trying to do and why
+- what is stopping them from succeeding
+- in flash fiction / short form writing, you can imply several try/fail cycles have already happened
+
+Look at the conflict/complication you came up with above, and identify the MICE element you're dealing with. 
