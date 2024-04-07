@@ -64,4 +64,6 @@ M = MICE threads
 - YES, but -> the character makes progress but a new complication pops up
 - NO, and -> the character does not make progress, and is pushed back further from it. 
 
-4. 
+5. At 66% / 75% you begin to resolve threads, meaning you switch modes. Use resolution devices:
+- YES, and -> the character succeeds and finds a bonus on top of it
+- NO, but -> the character fails but in doing so discovers another outcome
