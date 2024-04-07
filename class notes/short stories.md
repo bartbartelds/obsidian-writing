@@ -60,10 +60,15 @@ M = MICE threads
 - what is stopping them from succeeding
 - in flash fiction / short form writing, you can imply several try/fail cycles have already happened
 
-3. Look at the conflict/complication you came up with above, and identify the MICE element you're dealing with. Then operate the try/fail cycle - have the character try, fail and adapt. 5 sentences
+3. Look at the conflict/complication you came up with above, and identify the MICE element you're dealing with. Then operate the try/fail cycle for the MICE threads - have the character try, fail and adapt. 5 sentences
 - YES, but -> the character makes progress but a new complication pops up
 - NO, and -> the character does not make progress, and is pushed back further from it. 
 
-5. At 66% / 75% you begin to resolve threads, meaning you switch modes. Use resolution devices:
+5. At 66% / 75% you begin to resolve threads, meaning you switch modes. 5 sentences, use resolution devices:
 - YES, and -> the character succeeds and finds a bonus on top of it
 - NO, but -> the character fails but in doing so discovers another outcome
+
+6. Close out the MICE elements in order. Things have changes over the course of the story, and the reader must now be grounded in the new reality. You can do this by taking the results from the cycles, and mirroring the introduction:
+- Character: action / reflection
+- Where:
+- Genre: highligh
