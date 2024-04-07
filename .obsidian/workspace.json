@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-05 Furious fiction - writer's centre.md",
+                "file": "2024-04-15 53 words (monthly).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/short stories.md",
+                "file": "2024-04-15 53 words (monthly).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fca8aaeb839a33ac",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/short stories.md",
+                "file": "2024-04-15 53 words (monthly).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/short stories.md",
+                "file": "2024-04-15 53 words (monthly).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/short stories.md"
+                "file": "2024-04-15 53 words (monthly).md"
               }
             }
           }
@@ -174,8 +173,8 @@
   },
   "active": "f268373f104a8dac",
   "lastOpenFiles": [
-    "2024-04-05 Furious fiction - writer's centre.md",
     "class notes/short stories.md",
+    "2024-04-15 53 words (monthly).md",
     "_work/3.md",
     "2024-04-04 Writer's Alliance of Gainesville.md",
     "_work/1.md",
