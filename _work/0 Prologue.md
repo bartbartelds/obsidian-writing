@@ -11,9 +11,12 @@ Phi draws laboured breaths through the moist rag tightly tied across her nos and
 Phi connects the link from her visor to the hud socket of the weapon and flicks up a switch. Her field of view dims to a soft black, only leaving a red pulsing dot in the bottom right. The visor flickers with static which quickly settles into three white squares along the top of Phi's vision,  and projected green crosshair with wind and distance data in the middle and along the bottom a string of weapon diagnostics. 
 
 "Online" she states matter of factly. 
-
 A gruff distorted voice replies "Patching you in now."
 
 One by one, the white squares along the top of Phi's field of view begin showing an intersection of streets that are fully obfuscated from her perch by layers of thick smog. Software projects a dot where the weapon is aiming on every panel, offering a near perfect 360 view of the point of projected impact - useful when firing rounds with sufficient stopping power to plough through several layers of semi-solid obstacles before running out of dynamic energy. 
 
-The intersection was desolate at 3:22AM. Scraps of trash, caught in the breeze, flit across the screen and curtains of dust fly by. Phi feels a 
+The intersection was desolate at 3:22AM. Scraps of trash, caught in the breeze, flit across the screen and curtains of dust fly by. Phi feels a something sharp jab at her right elbow as she stretches out, positioning herself prone and in position to operate the weapon. She outs an inmouth curse and brushes the weathered concrete with her hands. 
+
+"Tic toc, killer."
+Phi scowls. "Don't appreciate that, none of it."
+In the static that follows, she was su
