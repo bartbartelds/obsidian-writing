@@ -19,4 +19,5 @@ The intersection was desolate at 3:22AM. Scraps of trash, caught in the breeze, 
 
 "Tic toc, killer."
 Phi scowls. "Don't appreciate that, none of it."
-In the static that follows, she was su
+In the static that follows, she was sure she could hear him smirking. She shakes her head, ridding herself of cobwebs, grime and fleeting frustration. Controlling her breath, she begins to force her heart rate down, as her left index finger cradles the trigger. She flicks off the safety with her thumb and mentally steps forward into the projected reality of the rifle. 
+
