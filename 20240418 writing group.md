@@ -12,4 +12,12 @@ I lean in, peering at the exterior of the box, looking for hints to its nature. 
 "In a manner of speaking, Mr. Greene. It is yours to take. I invite you to collect it. You'll find it quite light."
 I frown, and reach for the artefact. It is cold to the touch. To my surprise it lifts off the desktop with ease. 
 "That will be all, Mr. Greene."
-I manage a soft thank you, and leave the executor's office carrying my freshly bequithed 
+I manage a soft thank you, and leave the executor's office carrying my freshly bequeathed prize before me like a votive offering. 
+
+Once outside, I give the box a shake. A soft thump of something rattling against its insides makes my mind race. 
+*No - not here.* 
+I am unsure where the notion came from, but I decide to heed it, and drive home in silence with the box beside me, nestled in the passenger's seat. 
+
+"What is it? Does it do anything?"
+"What's -in- it? Aren't you curious?"
+I've been pondering it the entire ride, and ever since I got home, the box has not left my mind. The kids must think it's Christmas Eve, and Santa has just walked in with a bounty of presents. 
