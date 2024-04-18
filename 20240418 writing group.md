@@ -20,4 +20,12 @@ I am unsure where the notion came from, but I decide to heed it, and drive home 
 
 "What is it? Does it do anything?"
 "What's -in- it? Aren't you curious?"
-I've been pondering it the entire ride, and ever since I got home, the box has not left my mind. The kids must think it's Christmas Eve, and Santa has just walked in with a bounty of presents. 
+I've been pondering it the entire ride, and ever since I got home, the box has not left my mind. The kids must think it's Christmas Eve, and Santa has just walked in with a bounty of presents. I'm sure of it, this time. I don't want to know what's in there. 
+"Leave it alone. We'll open it soon." I lie. 
+"When? When??" they cry in unison. 
+"Later."
+
+The box sat on a side table in the hallway a few hours, until the kids went to bed. I secreted it away, hid it in the attic, and tried to forget about it, hoping the kids would do the same. It worked. They stopped mentioning the heirloom after a day or so, and moved on to things that were infinitely more important in teenager's lives. 
+
+*Wake up.*
+I do. With a groan I push off of the mattress to sit against the headboard. 
