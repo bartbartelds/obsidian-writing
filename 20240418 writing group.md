@@ -28,4 +28,17 @@ I've been pondering it the entire ride, and ever since I got home, the box has n
 The box sat on a side table in the hallway a few hours, until the kids went to bed. I secreted it away, hid it in the attic, and tried to forget about it, hoping the kids would do the same. It worked. They stopped mentioning the heirloom after a day or so, and moved on to things that were infinitely more important in teenager's lives. 
 
 *Wake up.*
-I do. With a groan I push off of the mattress to sit against the headboard. 
+I do. With a groan I push off of the mattress to sit against the headboard. I flip on the reading light, and squint as my eyes adjust. The box sits atop the memoir a friend of mine wrote. 
+"What ..."
+
+*It's time.*
+"Wha ..." I shake my head in an attempt to rid myself off some cobwebs. It's still there. 
+*You must be curious.*
+I'm not. 
+"Yes ... I must be ..." I mime the words. 
+I reach over with my right hand and pick up the keepsake, placing it on my stomach. 
+
+*Go on.*
+I do. 
+
+The kids found the box the next morning. They waited for me to return 
