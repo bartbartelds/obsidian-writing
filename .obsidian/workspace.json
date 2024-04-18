@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0dde2d4b2fc4e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240418 writing group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/0 Prologue.md",
+                "file": "20240418 writing group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/0 Prologue.md",
+                "file": "20240418 writing group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/0 Prologue.md"
+                "file": "20240418 writing group.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c08d26d7ee3deaca",
+  "active": "c0dde2d4b2fc4e15",
   "lastOpenFiles": [
+    "_work/0 Prologue.md",
+    "20240418 writing group.md",
     "_work/1.md",
     "_work/2.md",
     "_work/3.md",
@@ -178,8 +193,6 @@
     "_work/characters/characters.md",
     "_work/characters/Phi - philomena.md",
     "_work/characters/PC - Niander.md",
-    "_work/characters/PC - Fifth.md",
-    "_work/characters/PC - Cat.md",
     "_work/setting",
     "_work/characters",
     "_work",
