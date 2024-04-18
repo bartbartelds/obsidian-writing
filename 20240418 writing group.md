@@ -41,4 +41,6 @@ I reach over with my right hand and pick up the keepsake, placing it on my stoma
 *Go on.*
 I do. 
 
-The kids found the box the next morning. They waited for me to return 
+The kids found the box the next morning. They waited for me to return for two weeks. They called people, searched, answered questions, prayed, pleaded. I saw them walking in and out of my bedroom, sometimes just to talk or to be. They never opened the box. Good for them. 
+
+*Good for them.*
