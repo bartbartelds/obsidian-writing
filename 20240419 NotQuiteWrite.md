@@ -55,10 +55,17 @@ Attempt 1:
 Aster cast her eyes to the floorboards. 
 Again a nod. It was true. The house was well-kept, recently abandoned, at the edge of the dusty road, two carts wide, that ran through the heart of the town. 
 Avery pads some dust off his clothes and removes his hat before crossing the threshold. 
-" ... "
+" ... if it'd been up to him, y'all could stay right here for 100 years."
+She cants hear head and watches him seat himself in a rickety chair. In the faint light of the oil lamp overhead, he started to roll a cigarette
 
 
-you've been chosen
+hospitality has to be repaid - you've been chosen
+
+avery is a scumbag
+priest is a scumbag
+town are scumbags
+
+but by reuniting aster with the thing in the swamp, the town was saved for 100 years. 
 
 
 
