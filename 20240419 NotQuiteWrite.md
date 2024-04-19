@@ -5,3 +5,5 @@
 4. 500 words
 
 
+You haven't been here long. There are some things I think you should know. 
+Aster looks up, pausing her 
