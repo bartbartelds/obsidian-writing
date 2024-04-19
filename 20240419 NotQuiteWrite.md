@@ -50,9 +50,17 @@ cut the lights off
 Attempt 1:
 
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
-Aster looks up from folding the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's with a quizzical expression followed by a nod. She had noticed. 
-"Set you up real nice here, too."
-Again a nod. The house was well-kept, recently abandoned
+*Aster looks up from putting away the white cotton garments she had arrived in town in, a few* days prior. Her eyes meet Avery's with a quizzical expression followed by a nod. She had noticed. 
+"'Set you up real nice here, too." His voice trailed off as his eyes looked her over. 
+Aster cast her eyes to the floorboards. 
+Again a nod. It was true. The house was well-kept, recently abandoned, at the edge of the dusty road, two carts wide, that ran through the heart of the town. 
+Avery pads some dust off his clothes and removes his hat before crossing the threshold. 
+" ... "
+
+
+you've been chosen
+
+
 
 
 
