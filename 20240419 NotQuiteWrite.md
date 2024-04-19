@@ -5,5 +5,15 @@
 4. 500 words
 
 
+concept - winning is a not a good thing
+
+Ast
+
+
+
+
+Attempt 1:
+
 You haven't been here long. There are some things I think you should know. 
-Aster looks up, pausing her 
+Aster looks up, pausing her preparations and gives a quizzical expression. 
+
