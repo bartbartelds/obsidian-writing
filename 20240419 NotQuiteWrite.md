@@ -58,7 +58,12 @@ Avery pads some dust off his clothes and removes his hat before crossing the thr
 " ... if it'd been up to him, y'all could stay right here for 100 years."
 She cants hear head and watches him seat himself in a rickety chair. In the faint light of the oil lamp overhead, he reached for a small tin of chewing tobacco and stuffed an indulgent helping in his left cheek. 
 "Y'all sure know how to put on the charm, don't ye." His grinned his teeth black. Aster did not engage. 
-".... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow, to the gathering in town square, wearin' your best linen. "
+".... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow, to the gathering in town square, wearin' your best linen, and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate you. How's that sound?"
+Avery stows away his tin and stretches out his legs, raking muddy boots across the floor. 
+Aster meets his eyes with a disarming smile which she sustains so long it unsettles Avery. 
+He clears his throat, and mutters a groan as he gets up. 
+"Well then. Y'all 'll know when it's time." He greets her and 
+
 
 
 hospitality has to be repaid - you've been chosen
