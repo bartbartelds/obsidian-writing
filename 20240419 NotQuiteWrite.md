@@ -6,6 +6,7 @@
 
 Date - of picking a winner. 'Date of Druthers' 
 concept - winning is a not a good thing. 
+said - don't have to use said if there's only one character speaking.
 
 Ast
 
@@ -14,6 +15,6 @@ Ast
 
 Attempt 1:
 
-You haven't been here long. There are some things I think you should know. 
+Y'all ain't been here long. But 's some things I ' haven't been here long. There are some things I think you should know. 
 Aster looks up, pausing her preparations and gives a quizzical expression. 
 
