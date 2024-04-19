@@ -3,3 +3,5 @@
     You don't need to use this exact wording and you can feature the action prominently or simply as an aside. The action may occur before the beginning of your story or after it ends as long as it's referenced somewhere within your story.
 3. ﻿﻿﻿Your story must break the rule "always use said." You can interpret this anti-prompt in whatever creative way you see fit.
 4. 500 words
+
+
