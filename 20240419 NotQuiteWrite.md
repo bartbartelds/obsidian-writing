@@ -16,7 +16,7 @@ Avery - speaker, second in command
 Aster - white lady
 ## monsters
 
-### two-toed tom
+**two-toed tom**
 
 By the time that University of Alabama professor Carl Carmer set down the legend of Two-Toed Tom in his book _Stars Fell on Alabama_, the creature was described as a “[red-eyed hell-demon](http://www.exploresouthernhistory.com/alligator2.html)” that took the form of a 4-meter-long (14 ft) alligator. Although many locals on the Florida-Alabama line may claim that the legend is ancient, most accounts of Two-Toed Tom started circulating in the 1920s.
 
@@ -26,7 +26,7 @@ The most widely repeated account concerning Two-Toed Tom concerns his battle wit
 
 Tragically, all the dynamite did was drive Two-Toed Tom out of the water. Once on land, the creature snatched Haines’s 12-year-old granddaughter and killed her. A distraught Haines vowed vengeance, but he failed to kill the beast. As such, a common rumor is that Two-Toed Tom is impervious to bullets.
 
-### the gray man
+**the gray man**
 
 Legend holds that the Gray Man is the ghost of a young man traveling from [Charleston](https://en.wikipedia.org/wiki/Charleston,_South_Carolina "Charleston, South Carolina") to see his fiancée in 1822.[[3]](https://en.wikipedia.org/wiki/The_Gray_Man_(ghost)#cite_note-Oxford-3) On the way, he and his horse were caught in quicksand-like [pluff mud](https://en.wikipedia.org/wiki/Pluff_mud "Pluff mud") in the marshes before Pawley's Island, and died. His spirit has haunted the shore nearby ever since, looking for the girl he loved.[[2]](https://en.wikipedia.org/wiki/The_Gray_Man_(ghost)#cite_note-co-2)
 
@@ -47,11 +47,12 @@ cut the lights off
 
 
 
-
 Attempt 1:
 
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
-Aster looks up from folding the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's.  
+Aster looks up from folding the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's with a quizzical expression followed by a nod. She had noticed. 
+"Set you up real nice here, too."
+Again a nod. The house was well-kept, recently abandoned
 
 
 
