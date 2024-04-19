@@ -64,16 +64,14 @@ Aster meets his eyes with a disarming smile which she sustains so long it unsett
 He clears his throat, and mutters a groan as he gets up. 
 "Well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
 
+The next morning, the townsfolk gathered just after sundown in front of a dais hastily-built in front of the general store, the town
 
+new arrival comes to town
+hospitality is given but has to be repaid - you've been chosen
+new arrival is picked in proceeding, to be sacrificed to swamp monster
+new arrival is revealed to be a lady in white and is reunited with gray man
+town stands in prosperity for 100 years before being destroyed by a flash flood. 
 
-
-hospitality has to be repaid - you've been chosen
-
-avery is a scumbag
-priest is a scumbag
-town are scumbags
-
-but by reuniting aster with the thing in the swamp, the town was saved for 100 years. 
 
 
 
