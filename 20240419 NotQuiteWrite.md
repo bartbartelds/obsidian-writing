@@ -15,7 +15,7 @@ Wren - community leader, not an actor in the story
 Avery - speaker
 Aster -
 
-two-toed tom
+#### two-toed tom
 
 By the time that University of Alabama professor Carl Carmer set down the legend of Two-Toed Tom in his book _Stars Fell on Alabama_, the creature was described as a “[red-eyed hell-demon](http://www.exploresouthernhistory.com/alligator2.html)” that took the form of a 4-meter-long (14 ft) alligator. Although many locals on the Florida-Alabama line may claim that the legend is ancient, most accounts of Two-Toed Tom started circulating in the 1920s.
 
@@ -24,6 +24,12 @@ Principally located in the town of Florala, Alabama, Two-Toed Tom is reportedly 
 The most widely repeated account concerning Two-Toed Tom concerns his battle with a farmer by the name of Pap Haines. After finding one of his mules grotesquely mauled, Haines and his sons filled 15 syrup buckets with dynamite and tossed them all into a pond where they believed that Two-Toed Tom was digesting his latest meal.
 
 Tragically, all the dynamite did was drive Two-Toed Tom out of the water. Once on land, the creature snatched Haines’s 12-year-old granddaughter and killed her. A distraught Haines vowed vengeance, but he failed to kill the beast. As such, a common rumor is that Two-Toed Tom is impervious to bullets.
+
+#### the gray man
+
+Legend holds that the Gray Man is the ghost of a young man traveling from [Charleston](https://en.wikipedia.org/wiki/Charleston,_South_Carolina "Charleston, South Carolina") to see his fiancée in 1822.[[3]](https://en.wikipedia.org/wiki/The_Gray_Man_(ghost)#cite_note-Oxford-3) On the way, he and his horse were caught in quicksand-like [pluff mud](https://en.wikipedia.org/wiki/Pluff_mud "Pluff mud") in the marshes before Pawley's Island, and died. His spirit has haunted the shore nearby ever since, looking for the girl he loved.[[2]](https://en.wikipedia.org/wiki/The_Gray_Man_(ghost)#cite_note-co-2)
+
+
 
 Language
 
