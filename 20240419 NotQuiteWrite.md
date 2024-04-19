@@ -53,7 +53,7 @@ Attempt 1:
 *Aster looks up from putting away the white cotton garments she had arrived in town in, a few* days prior. Her eyes meet Avery's with a quizzical expression followed by a nod. She had noticed. 
 "'Set you up real nice here, too." His voice trailed off as his eyes looked her over. 
 Aster cast her eyes to the floorboards. 
-Again a nod. It was true. The house was well-kept, recently abandoned, at the edge of the dusty road, two carts wide, that ran through the heart of the town. 
+Again a nod. It was true. The wooden house was well-kept, clearly recently vacant, situated at the edge of the dusty road that ran two carts wide through the heart of the town. 
 Avery pads some dust off his clothes and removes his hat before crossing the threshold. 
 " ... if it'd been up to him, y'all could stay right here for 100 years."
 She cants hear head and watches him seat himself in a rickety chair. In the faint light of the oil lamp overhead, he reached for a small tin of chewing tobacco and stuffed an indulgent helping in his left cheek. 
@@ -62,7 +62,8 @@ She cants hear head and watches him seat himself in a rickety chair. In the fain
 Avery stows away his tin and stretches out his legs, raking muddy boots across the floor. 
 Aster meets his eyes with a disarming smile which she sustains so long it unsettles Avery. 
 He clears his throat, and mutters a groan as he gets up. 
-"Well then. Y'all 'll know when it's time." He greets her and 
+"Well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
+
 
 
 
