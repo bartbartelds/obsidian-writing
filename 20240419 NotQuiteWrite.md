@@ -4,8 +4,8 @@
 3. ﻿﻿﻿Your story must break the rule "always use said." You can interpret this anti-prompt in whatever creative way you see fit.
 4. 500 words
 
-
-concept - winning is a not a good thing
+Date - of picking a winner. 'Date of Druthers' 
+concept - winning is a not a good thing. 
 
 Ast
 
