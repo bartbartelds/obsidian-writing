@@ -13,7 +13,7 @@ Deadline 16:00 Sunday April 21st
 ## Characters
 Wren - community leader, not an actor in the story 
 Avery - speaker
-Aster - girl
+Aster -
 
 two-toed tom
 
