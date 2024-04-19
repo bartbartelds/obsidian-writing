@@ -56,7 +56,9 @@ Aster cast her eyes to the floorboards.
 Again a nod. It was true. The house was well-kept, recently abandoned, at the edge of the dusty road, two carts wide, that ran through the heart of the town. 
 Avery pads some dust off his clothes and removes his hat before crossing the threshold. 
 " ... if it'd been up to him, y'all could stay right here for 100 years."
-She cants hear head and watches him seat himself in a rickety chair. In the faint light of the oil lamp overhead, he started to roll a cigarette
+She cants hear head and watches him seat himself in a rickety chair. In the faint light of the oil lamp overhead, he reached for a small tin of chewing tobacco and stuffed an indulgent helping in his left cheek. 
+"Y'all sure know how to put on the charm, don't ye." His grinned his teeth black. Aster did not engage. 
+".... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow, to the gathering in town square, wearin' your best linen. "
 
 
 hospitality has to be repaid - you've been chosen
