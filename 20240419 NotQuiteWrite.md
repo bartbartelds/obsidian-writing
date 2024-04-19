@@ -16,6 +16,11 @@ raisin' Cain.
 it doesn't matter a hill of beans. 
 britches
 somethin' awful
+Lord willin' and the Creek don't rise. 
+chillins - children
+I'm fixin' to
+pappy / grandpappy
+cut the lights off
 
 
 
