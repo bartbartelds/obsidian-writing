@@ -68,8 +68,8 @@ The next morning, the townsfolk gathered just after sundown in front of a dais h
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
-new arrival is picked in proceeding, to be sacrificed to swamp monster
-new arrival is revealed to be a lady in white and is reunited with gray man
+new arrival is picked in proceeding, to be sacrificed to gray man/swamp monster
+new arrival is revealed to be a lady in white seeking to be reunited with gray man/swamp monster
 town stands in prosperity for 100 years before being destroyed by a flash flood. 
 
 
