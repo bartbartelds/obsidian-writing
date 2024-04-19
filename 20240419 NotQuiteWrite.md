@@ -31,7 +31,6 @@ Tragically, all the dynamite did was drive Two-Toed Tom out of the water. Once o
 Legend holds that the Gray Man is the ghost of a young man traveling from [Charleston](https://en.wikipedia.org/wiki/Charleston,_South_Carolina "Charleston, South Carolina") to see his fiancée in 1822.[[3]](https://en.wikipedia.org/wiki/The_Gray_Man_(ghost)#cite_note-Oxford-3) On the way, he and his horse were caught in quicksand-like [pluff mud](https://en.wikipedia.org/wiki/Pluff_mud "Pluff mud") in the marshes before Pawley's Island, and died. His spirit has haunted the shore nearby ever since, looking for the girl he loved.[[2]](https://en.wikipedia.org/wiki/The_Gray_Man_(ghost)#cite_note-co-2)
 
 
-
 ### Language
 
 raisin' Cain. 
@@ -51,8 +50,8 @@ cut the lights off
 
 Attempt 1:
 
-Y'all ain't been here long. But Wren's takin' a liking to y'all. 
-Aster looks up, pausing her preparations and gives a quizzical expression. 
+"Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
+Aster looks up from folding the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's.  
 
 
 

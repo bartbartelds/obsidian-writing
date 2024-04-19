@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/4.md",
+                "file": "20240419 NotQuiteWrite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/4.md",
+                "file": "20240419 NotQuiteWrite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/4.md"
+                "file": "20240419 NotQuiteWrite.md"
               }
             }
           }
@@ -171,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0dde2d4b2fc4e15",
+  "active": "8d17805b21d0c086",
   "lastOpenFiles": [
+    "_work/4.md",
     "20240419 NotQuiteWrite.md",
     "Pasted image 20240419134422.png",
-    "_work/4.md",
     "_work/3.md",
     "_work/2.md",
     "_work/1.md",
