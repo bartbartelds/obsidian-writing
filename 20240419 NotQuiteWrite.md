@@ -66,7 +66,7 @@ He clears his throat, and mutters a groan as he gets up.
 
 The townsfolk gather early dawn the next day, and congregate before a hastily-built dais, in front of the general store. The crowd is restless but soft spoken. The blessing from the minister does not alleviate the tension. Aster stands center stage in her finest white, flanked on either side by a city girl dressed in church whites. Neither seem of child bearing age.  Big Wren, sensing growing unease, takes center stage, nodding his appreciation to the retreating cleric. He clears his throat, and speaks in a deep baritone.
 
-"Today's date is April 21st 1766. "
+"Today is April 21st in the year of our Lord 1766 ..." He pauses, and lets his words resonate down main street. "... a decennary since the last Proceeding. "
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
