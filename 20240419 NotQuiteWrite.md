@@ -74,9 +74,9 @@ Wren nods his approval, and raises both his arms and voice skyward. "We stand re
 
 "There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. He looks near translucent, garbed in grey cloth and black leathers. The footfalls of his horse grind gravel with deep thuds as it advances upon the congregation with deliberate intent. The gathering splits to allow him passage. Even Wren takes a step back.
 
-Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift and leaves the townsfolk in a mixture of relief and confusion where guilt had been expected. 
+Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. Soon, Aster and the Gray Man dissolve into the morning mist, leaving the townsfolk in a mixture of relief and confusion where guilt had been expected. 
 
-
+Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Man did not come, however. Nor the decade after that
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
