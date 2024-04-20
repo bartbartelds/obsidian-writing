@@ -64,7 +64,8 @@ Aster meets his eyes with a disarming smile which she sustains so long it unsett
 He clears his throat, and mutters a groan as he gets up. 
 "Well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
 
-The townsfolk gather early dawn the next day, before a hastily-built dais, in front of the general store. After the sun sets, torches Aster After the congregation was blessed by the town's minister, Big Wren took center stage. 
+The townsfolk gather early dawn the next day, and congregate before a hastily-built dais, in front of the general store. The crowd is restless but soft spoken. The blessing from the minister does not alleviate the tension. Aster stands center stage in her finest white, flanked on either side by city girl, dressed in church whites.  Big Wren, sensing growing unease, takes center stage, nodding his appreciation to the 
+""
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
