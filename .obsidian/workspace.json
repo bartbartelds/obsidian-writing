@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "competitions/2024-03-31 GW very short story contest.md",
+                "file": "20240419 NotQuiteWrite.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "competitions/2024-03-31 GW very short story contest.md",
+                "file": "20240419 NotQuiteWrite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "competitions/2024-03-31 GW very short story contest.md",
+                "file": "20240419 NotQuiteWrite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "competitions/2024-03-31 GW very short story contest.md"
+                "file": "20240419 NotQuiteWrite.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "8d17805b21d0c086",
   "lastOpenFiles": [
+    "competitions/2024-03-31 GW very short story contest.md",
     "competitions/2024-03-31 GWstorieseverywhere.md",
     "competitions/2024-04-15 53 words (monthly).md",
     "20240419 NotQuiteWrite.md",
@@ -195,7 +196,6 @@
     "files/USVA CW Basics nov 23.pdf",
     "files",
     "competitions/2024-04-01 wergle flomp.md",
-    "competitions/2024-03-31 GW very short story contest.md",
     "competitions",
     "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
