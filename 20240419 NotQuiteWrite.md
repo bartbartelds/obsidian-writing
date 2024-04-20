@@ -72,9 +72,9 @@ Wren gestures to the girls, who turn away from Aster and leave the dais with the
 
 Wren nods his approval, and raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize." The townsfolk wait with baited breath, the silence is heavy. 
 
-"There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. Its footfalls grind gravel with deep thuds  As the visitor comes up to the crowd, the gathering splits to allow him passage. Even Wren takes a step back.
+"There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. He looks near translucent, garbed in grey cloth and black leathers. The footfalls of his horse grind gravel with deep thuds as it advances upon the congregation with deliberate intent. The gathering splits to allow him passage. Even Wren takes a step back.
 
-
+The only 
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
