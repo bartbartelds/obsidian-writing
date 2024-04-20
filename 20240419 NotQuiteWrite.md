@@ -70,9 +70,9 @@ The townsfolk gather early dawn the next day, and congregate before a hastily-bu
 Wren gestures to the girls, who turn away from Aster and leave the dais with the same solemn expression. Aster looks out over the crowd of people gathered in the morning mist. None meets her calm smile, opting to look away or shrug into hoods. 
 "Miss Aster has seen fit to Stand at this time. And for this we owe her a hundred years of Gratitude." The gathering repeats the last five words in unison.
 
-Wren nods his approval, and raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize."
+Wren nods his approval, and raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize." The townsfolk wait with baited breath in heavy silence. 
 
-The Gray Man emerge 
+"There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. Its steps grinding gravel The gathering splits to allow him passage.  
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
