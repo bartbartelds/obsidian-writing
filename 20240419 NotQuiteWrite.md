@@ -66,7 +66,8 @@ He clears his throat, and mutters a groan as he gets up.
 
 The townsfolk gather early dawn the next day, and congregate before a hastily-built dais, in front of the general store. The crowd is restless but soft spoken. The blessing from the minister does not alleviate the tension. Aster stands center stage in her finest white, flanked on either side by a city girl dressed in church whites. Neither seem of child bearing age.  Big Wren, sensing growing unease, takes center stage, nodding his appreciation to the retreating cleric. He clears his throat, and speaks in a deep baritone.
 
-"Today is April 21st in the year of our Lord 1766 ..." He pauses, and lets his words resonate down main street. "... a decennary since the last Proceeding. "
+"Today is April 21st in the year of our Lord 1766 ..." He pauses, and lets his words resonate down main street. "... a decennary to the day since the last Proceeding. We stand here at this time to renew our bargain, and pay our Retribution."
+Wren gestures to the girls, who turn away from Aster and make to leave the dias with the same solumn expression. Aster looks out over the crowd of people
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
