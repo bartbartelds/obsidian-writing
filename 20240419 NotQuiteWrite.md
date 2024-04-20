@@ -64,7 +64,7 @@ Aster meets his eyes with a disarming smile which she sustains so long it unsett
 He clears his throat, and mutters a groan as he gets up. 
 "Well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
 
-The townsfolk gathered at dusk before a dais hastily-built in front of the general store, the town. After the communion was blessed by the town's chaplain. 
+The townsfolk gather early dawn the next day, before a hastily-built dais, in front of the general store. After the sun sets, torches Aster After the congregation was blessed by the town's minister, Big Wren took center stage. 
 
 new arrival comes to town
 hospitality is given but has to be repaid - you've been chosen
