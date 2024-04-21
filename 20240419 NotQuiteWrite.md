@@ -111,10 +111,11 @@ Avery lead the Proceeding in Wren's stead, ten years down the road. The Gray Man
 
 Attempt 3:
 She arrived like a wisp on the moors, when all but three lamps in town had doused for the night.  The regulars with nowhere to be circled her, pouring out of the saloon once they laid eyes on her. She didn't speak a word as she looked at them from atop a white horse, wearing a white gown that drifted gently in the cool breeze. Her searching expression was met with intoxicated benevolence. They led her inside, and furnished her with food and drink which she did not touch. Come morning, she was gone. 
-The townsfolk put little stock in the drunkards' tale at first, but they were soon swayed. Rumours came down the coast of a lady in white seen on the marshes when all other lights had extinguished, near incandescent in the dusk. She came to be seen as a patron saint of travellers, a guide over treacherous ground. The next time she arrived in town, the major -  an avid drinker himself - wasted no time offering her accommodation. The following morning, to everyone's surprise, they found she had accepted. In a house on the outskirts of town, overseeing the surrounding moors, she had taken residence. They called her Aster, after the white flowers that bloomed near the cemetery just outside the town's limits.  
+The townsfolk put little stock in the drunkards' tale at first, but they were soon swayed. Rumours came down the coast of a lady in white seen on the marshes when all other lights had extinguished, near incandescent in the dusk. She came to be seen as a patron saint of travellers, a guide over treacherous ground. The next time she arrived in town, the major -  himself an avid drinker - wasted no time offering her accommodation. 
+The following morning, they found she had accepted and taken residence in an abandoned house on the outskirts. They called her Aster, after the white marsh flowers.
 
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
-Aster looks up from her broom. Her eyes meet Avery's, followed by a nod. She had noticed. 
+Aster looks up from her broom. Her eyes meet Avery's, followed by a nod. 
 " ... if it'd been up to him, y'all could stay right here for 'nother 100 years."
 She cants hear head and watches him, sitting on his rickety chair. In the dim light of the lamp overhead, he reaches for a tin of tobacco and stuffs an indulgent helping in his left cheek. He grins his teeth black. 
 "... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate y'all. How's that sound?"
@@ -128,7 +129,7 @@ The townsfolk gather in the early dawn before a hastily-built dais. The crowd is
 
 Wren nods his approval, and raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize." The townsfolk wait with baited breath, the silence is heavy. 
 
-"There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. He looks near translucent, garbed in grey cloth and black leathers. The footfalls of his horse grind gravel with deep thuds as it advances upon the congregation with deliberate intent. The gathering splits to allow him passage. Even Wren takes a step back.
+"There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. He looks near translucent, garbed in grey cloth and black leathers. The footfalls of his horse grind gravel with deep thuds as it advances. The gathering splits to allow him passage. 
 
 Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. Soon, Aster and the Gray Man dissolve into the morning mist, leaving the townsfolk in a mixture of relief and confusion where guilt had been expected. 
 
