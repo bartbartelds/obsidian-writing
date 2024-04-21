@@ -88,16 +88,15 @@ Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Ma
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
 Aster looks up from putting away the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's, followed by a nod. She had noticed. 
 " ... if it'd been up to him, y'all could stay right here for 'nother 100 years."
-She cants hear head and watches him, sitting on his rickety chair. In the dim light of the oil lamp overhead, he reaches for a tin of chewing tobacco and stuffs an indulgent helping in his left cheek. 
-"Y'all sure know how to put on the charm, don't ye." His grinned his teeth black. Aster did not engage. 
-".... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow, to the gathering in town square, wearin' your best linen, and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate you. How's that sound?"
+She cants hear head and watches him, sitting on his rickety chair. In the dim light of the lamp overhead, he reaches for a tin of tobacco and stuffs an indulgent helping in his left cheek. 
+"Y'all sure know how to put on the charm, don't ye." His grins his teeth black. 
+"... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow, to the Proceeding in town square, wearin' your best whites, and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate y'all. How's that sound?"
 As Avery stows away his tin, Aster meets his eyes with a disarming smile which she sustains  unsettlingly long. He clears his throat, and mutters a groan as he gets up. 
 "... well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
 
 The townsfolk gather early dawn the next day, and congregate before a hastily-built dais, in front of the general store. The crowd is restless but soft spoken. The blessing from the minister does not alleviate the tension. Aster stands center stage in her finest white, flanked on either side by a city girl dressed in church whites. Neither seem of child bearing age.  Big Wren, sensing growing unease, takes center stage, nodding his appreciation to the retreating cleric. He clears his throat, and speaks in a deep baritone.
 
-"The date is April 21st in the year of our Lord 1766 ..." He pauses, and lets his words resonate down main street. "... a decennary to the day since the last Proceeding. We stand here at this time to renew our bargain, and pay our Retribution."
-Wren gestures to the girls, who turn away from Aster and leave the dais with the same solemn expression. Aster looks out over the crowd of people gathered in the morning mist. None meets her calm smile, opting to look away or shrug into hoods. 
+"The date is April 21st in the year of our Lord 1766 ..." He pauses, and lets his words resonate down main street. "... a decennary to the day since the last Proceeding. Today, we pay our Retribution." Wren gestures to the girls, who turn away from Aster and retreat from the dais with a solemn expression. Aster looks out over the crowd of people gathered in the morning mist. None meets her calm smile, opting to look away or shrug into hoods. 
 "Miss Aster has seen fit to Stand at this time. And for this we owe her a hundred years of Gratitude." The gathering repeats the last five words in unison.
 
 Wren nods his approval, and raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize." The townsfolk wait with baited breath, the silence is heavy. 
@@ -106,4 +105,4 @@ Wren nods his approval, and raises both his arms and voice skyward. "We stand re
 
 Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. Soon, Aster and the Gray Man dissolve into the morning mist, leaving the townsfolk in a mixture of relief and confusion where guilt had been expected. 
 
-Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Man did not come, however. Neither did he the decade after, and soon custom passed to forgotten memory. The town stood in prosperity until flash floods of 1866 washed it out to sea. 
+Avery lead the Proceeding in Wren's stead, ten years down the road. The Gray Man did not come, however. Neither did he the decade after, and soon custom passed to forgotten memory. The town stood in prosperity until flash floods of 1866 washed it out to sea. 
