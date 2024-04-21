@@ -110,4 +110,4 @@ Avery lead the Proceeding in Wren's stead, ten years down the road. The Gray Man
 
 
 Attempt 3:
-She arrived like a wisp on the moors, when all but three lamps in town had doused for the night.  The regulars with nowhere to be circled her, pouring out of the saloon once they laid eyes on her. She didn't speak a word as she looked at them from atop a white horse, wearing a white gown that drifted gently in the cool breeze. townsfolk steered clear of her, wary of outsiders. 
+She arrived like a wisp on the moors, when all but three lamps in town had doused for the night.  The regulars with nowhere to be circled her, pouring out of the saloon once they laid eyes on her. She didn't speak a word as she looked at them from atop a white horse, wearing a white gown that drifted gently in the cool breeze. Her searching expression was met with intoxicated benevolence. They led her inside, and furnished her with food and drink which she did not touch. Come morning, she was gone without a trace. 
