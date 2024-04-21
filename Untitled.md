@@ -10,9 +10,9 @@ In the dim light of the lamp overhead, he reaches for a tin of tobacco and stuff
 As Avery stows away his tin, Aster meets his eyes with a disarming smile. He clears his throat, and mutters a groan as he gets up. 
 "... well then. Y'all 'll know when it's time." 
 
-The townsfolk gather in the early dawn. They're resThe crowd is restless. The blessing from the minister instills little calm. Then, Big Wren takes center stage, nodding his appreciation at the retreating cleric. Aster stands in the middle of the dais, dressed in her finest white gown. Wren clears his throat.
+The townsfolk gather in the early dawn. They're restless. A blessing from the minister instills little calm. Big Wren takes center stage. Aster stands in the middle of the dais, dressed in her finest white gown. Wren clears his throat.
 "The date is April 21st in the year of our Lord 1766 ..." He pauses, letting his words roll down main street. "... a decennary to the day since the last Proceeding. Today, we pay our Retribution." 
-Aster looks out over the crowd gathered in the morning mist. No one meets her calm smile.
+Aster looks out over the crowd. No one meets her calm smile.
 "Miss Aster has seen fit to Stand at this time. And for this we owe her a hundred years of Gratitude." 
 The gathering repeats the last five words in unison.
 Wren then raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize." 
@@ -22,4 +22,4 @@ The townsfolk wait with baited breath, in heavy silence.
 
 Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. The bewildered townsfolk see Aster and the Gray Man dissolve into the morning mist.
 
-Avery lead the Proceeding in Wren's stead in '76, but the Gray Man did show - nor did he the decade after. The town stood in prosperity until the flash floods of 1866 washed it out to sea. 
+Avery lead the Proceeding in '76, but the Gray Man did show - nor did he the decade after. The town stood in prosperity until the flash floods of 1866 washed it out to sea. 
