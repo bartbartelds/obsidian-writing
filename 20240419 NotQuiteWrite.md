@@ -76,13 +76,9 @@ Wren nods his approval, and raises both his arms and voice skyward. "We stand re
 
 Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. Soon, Aster and the Gray Man dissolve into the morning mist, leaving the townsfolk in a mixture of relief and confusion where guilt had been expected. 
 
-Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Man did not come, however. Nor the decade after that
+Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Man did not come, however. Neither did he the decade after, and soon custom passed to forgotten memory. The town stood in prosperity until flash floods of 1866 washed it out to sea. 
 
-new arrival comes to town
-hospitality is given but has to be repaid - you've been chosen
-new arrival is picked in proceeding, to be sacrificed to gray man/swamp monster
-new arrival is revealed to be a lady in white seeking to be reunited with gray man/swamp monster
-town stands in prosperity for 100 years before being destroyed by a flash flood. 
+
 
 
 
