@@ -121,9 +121,9 @@ She cants hear head and watches him, sitting on his rickety chair. In the dim li
 As Avery stows away his tin, Aster meets his eyes with a disarming smile. He clears his throat, and mutters a groan as he gets up. 
 "... well then. Y'all 'll know when it's time." 
 
-The townsfolk gather in the early dawn, and congregate before a hastily-built dais. The crowd is restless yet soft spoken. The blessing from the minister instills little calm. Sensing growing unease, Big Wren takes center stage, nodding his appreciation at the retreating cleric. Aster stands in the middle of the dais, dressed in her finest white gown. She is flanked on either side by a town's girl dressed in church whites.  Wren clears his throat, and speaks in a deep baritone.
+The townsfolk gather in the early dawn before a hastily-built dais. The crowd is restless yet soft spoken. The blessing from the minister instills little calm. Sensing growing unease, Big Wren takes center stage, nodding his appreciation at the retreating cleric. Aster stands in the middle of the dais, dressed in her finest white gown. She is flanked on either side by a town's girl dressed in church whites.  Wren clears his throat.
 
-"The date is April 21st in the year of our Lord 1766 ..." He pauses, and lets his words resonate down main street. "... a decennary to the day since the last Proceeding. Today, we pay our Retribution." Wren gestures to the girls, who turn away from Aster and retreat from the dais with a solemn expression. Aster looks out over the crowd of people gathered in the morning mist. None meets her calm smile, opting to look away or shrug into hoods. 
+"The date is April 21st in the year of our Lord 1766 ..." He pauses, letting his words roll down main street. "... a decennary to the day since the last Proceeding. Today, we pay our Retribution." Wren gestures to the girls, who turn away from Aster and retreat from the dais with a solemn expression. Aster looks out over the crowd gathered in the morning mist. No one meets her calm smile.
 "Miss Aster has seen fit to Stand at this time. And for this we owe her a hundred years of Gratitude." The gathering repeats the last five words in unison.
 
 Wren nods his approval, and raises both his arms and voice skyward. "We stand ready, Gray Man. Come claim your prize." The townsfolk wait with baited breath, the silence is heavy. 
