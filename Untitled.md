@@ -1,12 +1,13 @@
 She arrived like a wisp on the moors, when nearly all lamps had doused for the night. The regulars circled her, pouring out of the saloon. She met them atop a white horse, wearing a white gown that drifted gently in the cool breeze. They led her inside, and furnished her with food and drink which she did not touch. Come morning, she was gone. 
-Rumours began to come down the coast of a lady in white seen on the marshes when all other lights had gone out. A patron saint of travellers, a guide over treacherous ground. They called her Aster, after the white marsh flower. 
+Rumours began to come down the coast of a lady in white seen on the marshes when all other lights had gone out. A patron saint of travellers, a guide over treacherous ground. They called her Aster, after the white marsh flower. Tales were told of her thwarting the efforts of the Gray Man, a spirit that kept the eastern marshes - but only for those who would pay his tithe. 
+
 The next time she arrived in town, they offered her accommodation. She took residence in a house on the outskirts. 
 
 "Wren's takin' a liking to y'all. Y'know that, right?"
 Aster looks up from her broom. Her eyes meet Avery's, followed by a nod. 
 " ... if it'd been up to him, y'all could stay right here for 'nother 100 years." 
-He reaches for a tin of tobacco and stuffs an indulgent helping in his left cheek. He grins his teeth black. 
-"... Problem is: this house ain't ol' Wren's to give. But my heart ain't of stone. So here's what we'll do, miss: y'all come out tomorrow and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate y'all. How's that sound?"
+He reaches for a tin of tobacco and stuffs an indulgent helping in his left cheek, grinning his teeth black. 
+"... Problem is: this house ain't ol' Wren's to give. So here's what we'll do, miss: y'all come out tomorrow and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate y'all. How's that sound?"
 "... well then. Y'all 'll know when it's time." 
 
 A restless mob of townsfolk gathers in the early dawn. The minister's blessing instills little calm.  Aster stands in the middle of a dais, dressed in her finest white gown. Big Wren takes center stage.
