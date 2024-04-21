@@ -111,8 +111,8 @@ Avery lead the Proceeding in Wren's stead, ten years down the road. The Gray Man
 
 Attempt 3:
 She arrived like a wisp on the moors, when nearly all lamps in town had doused for the night.  The regulars circled her, pouring out of the saloon once they laid eyes on her. She met them  atop a white horse, wearing a white gown that drifted gently in the cool breeze. They led her inside, and furnished her with food and drink which she did not touch. Come morning, she was gone. 
-Rumours began to come down the coast of a lady in white seen on the marshes when all other lights had gone out. She came to be seen as a patron saint of travellers, a guide over treacherous ground. The next time she arrived in town, the major wasted no time offering her accommodation. The morning after, they found she had taken residence in an abandoned house on the outskirts. 
-They called her Aster, after the white marsh flower.
+Rumours began to come down the coast of a lady in white seen on the marshes when all other lights had gone out. She became known as a patron saint of travellers, a guide over treacherous ground. They called her Aster, after the white marsh flower.
+The next time she arrived in town, the major wasted no time offering her accommodation. The morning after, they found she had taken residence in an abandoned house on the outskirts. 
 
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
 Aster looks up from her broom. Her eyes meet Avery's, followed by a nod. 
@@ -132,6 +132,6 @@ The townsfolk wait with baited breath, in heavy silence.
 
 "There!" Wren points down street. The Gray Man emerges from the morning mist at the edge of town, astride a tall pale horse. He looks near translucent, garbed in grey cloth and black leathers. The footfalls of his horse grind gravel with deep thuds as it advances. The gathering splits to allow him passage. 
 
-Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. Soon, Aster and the Gray Man dissolve into the morning mist, leaving the townsfolk in a mixture of relief and confusion where guilt had been expected. 
+Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. The bewildered townsfolk see Aster and the Gray Man dissolve into the morning mist.
 
-Avery lead the Proceeding in Wren's stead, ten years down the road. The Gray Man did not come, however. Neither did he the decade after, and soon custom passed to forgotten memory. The town stood in prosperity until flash floods of 1866 washed it out to sea. 
+Avery lead the Proceeding in Wren's stead in '76, but the Gray Man did show - nor did he the decade after. Soon custom passed to forgotten memory. The town stood in prosperity until flash floods of 1866 washed it out to sea. 
