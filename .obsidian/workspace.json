@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f53794c3f7568a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240419 NotQuiteWrite.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240419 NotQuiteWrite.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240419 NotQuiteWrite.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d17805b21d0c086",
+  "active": "f53794c3f7568a17",
   "lastOpenFiles": [
+    "20240419 NotQuiteWrite.md",
+    "Untitled.md",
     "competitions/2024-03-31 GW very short story contest.md",
     "competitions/2024-03-31 GWstorieseverywhere.md",
     "competitions/2024-04-15 53 words (monthly).md",
-    "20240419 NotQuiteWrite.md",
     "_work/0 Prologue.md",
     "_work/5.md",
     "_work/4.md",
