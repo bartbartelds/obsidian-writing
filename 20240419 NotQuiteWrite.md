@@ -83,7 +83,7 @@ Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Ma
 
 
 
-
+Attempt 2:
 
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
 Aster looks up from putting away the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's, followed by a nod. She had noticed. 
@@ -106,3 +106,8 @@ Wren nods his approval, and raises both his arms and voice skyward. "We stand re
 Aster steps forward. She caresses the horse's manes gently, and takes the black gloved hand stretched out to her. The Gray Man hoists her up to sit behind him. She melts against his back, embracing him at the waist. The ride out of town is swift. Soon, Aster and the Gray Man dissolve into the morning mist, leaving the townsfolk in a mixture of relief and confusion where guilt had been expected. 
 
 Avery lead the Proceeding in Wren's stead, ten years down the road. The Gray Man did not come, however. Neither did he the decade after, and soon custom passed to forgotten memory. The town stood in prosperity until flash floods of 1866 washed it out to sea. 
+
+
+
+Attempt 3:
+She arrived like a wisp on the moors, late one night early spring, when all but The townsfolk steered clear of her, wary of outsiders. 
