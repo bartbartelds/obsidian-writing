@@ -87,16 +87,12 @@ Avery lead the proceedings in Wren's stead, ten years down the road. The Gray Ma
 
 "Y'all ain't been here long. But Wren's takin' a liking to y'all. Y'know that, right?"
 Aster looks up from putting away the white cotton garments she had arrived in town in, a few days prior. Her eyes meet Avery's, followed by a nod. She had noticed. 
-"Set you up real nice here, too." His voice trailed off as his eyes looked her over. 
-Aster cast her eyes to the floorboards. 
 " ... if it'd been up to him, y'all could stay right here for 'nother 100 years."
-She cants hear head and watches him as he sits in a rickety chair. In the faint light of the oil lamp overhead, he reaches for a tin of chewing tobacco and stuffs an indulgent helping in his left cheek. 
+She cants hear head and watches him, sitting on his rickety chair. In the dim light of the oil lamp overhead, he reaches for a tin of chewing tobacco and stuffs an indulgent helping in his left cheek. 
 "Y'all sure know how to put on the charm, don't ye." His grinned his teeth black. Aster did not engage. 
 ".... Problem is: this house ain't ol' Wren's to give. It was built by my grandpappy, and I aims to keep it. But my heart ain't of stone neither. So here's what we'll do, miss: y'all come out tomorrow, to the gathering in town square, wearin' your best linen, and stand in the Proceeding. And if y'all see fit to accommodate us, well ... we'll accommodate you. How's that sound?"
-Avery stows away his tin and stretches out his legs, raking muddy boots across the floor. 
-Aster meets his eyes with a disarming smile which she sustains so long it unsettles Avery. 
-He clears his throat, and mutters a groan as he gets up. 
-"Well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
+As Avery stows away his tin, Aster meets his eyes with a disarming smile which she sustains  unsettlingly long. He clears his throat, and mutters a groan as he gets up. 
+"... well then. Y'all 'll know when it's time." He greets her and turns to leave. Looking over his shoulder, he is met with Aster's unwavering smile. 
 
 The townsfolk gather early dawn the next day, and congregate before a hastily-built dais, in front of the general store. The crowd is restless but soft spoken. The blessing from the minister does not alleviate the tension. Aster stands center stage in her finest white, flanked on either side by a city girl dressed in church whites. Neither seem of child bearing age.  Big Wren, sensing growing unease, takes center stage, nodding his appreciation to the retreating cleric. He clears his throat, and speaks in a deep baritone.
 
