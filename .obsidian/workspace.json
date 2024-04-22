@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c08d26d7ee3deaca",
+            "id": "7a8f277d08ea8d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/0 Prologue.md",
+                "file": "2024-04-04 Writer's Alliance of Gainesville.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0dde2d4b2fc4e15",
+            "id": "98523e7b8131666c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +32,31 @@
             }
           },
           {
-            "id": "8d17805b21d0c086",
+            "id": "37e0d2744fec3702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240419 NotQuiteWrite.md",
+                "file": "_work/4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f53794c3f7568a17",
+            "id": "caa957cd6bb10931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompts/2024-04-05 Gotham writers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_work/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "_work/4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "_work/4.md"
               }
             }
           }
@@ -183,45 +183,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f53794c3f7568a17",
+  "active": "37e0d2744fec3702",
   "lastOpenFiles": [
-    "20240419 NotQuiteWrite.md",
     "Untitled.md",
-    "competitions/2024-03-31 GW very short story contest.md",
-    "competitions/2024-03-31 GWstorieseverywhere.md",
-    "competitions/2024-04-15 53 words (monthly).md",
-    "_work/0 Prologue.md",
-    "_work/5.md",
-    "_work/4.md",
-    "_work/3.md",
-    "_work/2.md",
-    "_work/1.md",
-    "class notes/short stories.md",
     "Pasted image 20240419134422.png",
+    "20240419 NotQuiteWrite.md",
     "20240418 writing group.md",
+    "_work/5.md",
+    "_work/0 Prologue.md",
+    "_work/1.md",
+    "_work/2.md",
+    "_work/3.md",
+    "_work/4.md",
+    "2024-04-04 Writer's Alliance of Gainesville.md",
     "prompts/2024-04-05 Gotham writers.md",
-    "prompts/2024-01.md",
-    "prompts/2024-03.md",
-    "prompts/2023-49.md",
+    "competitions/2024-04-15 53 words (monthly).md",
+    "class notes/short stories.md",
+    "2024-04-05 Furious fiction - writer's centre.md",
+    "competitions/2024-04-01 wergle flomp.md",
+    "01-04-2024.md",
+    "_work/characters/PC - Cat.md",
+    "competitions/2024-03-31 GWstorieseverywhere.md",
+    "_work/characters/PC - Niander.md",
+    "_work/characters/NPC - Darius - Darren - Darwin.md",
+    "_work/characters/PC - Fifth.md",
+    "_work/characters/Phi - philomena.md",
+    "_work/Outline.md",
+    "competitions/2024-03-31 GW very short story contest.md",
+    "competitions",
+    "writing meetup",
+    "_work/characters/NPC - Hiro.md",
+    "_work/characters/characters.md",
     "prompts",
-    "markdown.md.md",
     "files/ana_func_4.png",
     "files/USVA CW Basics nov 23.pdf",
     "files",
-    "competitions/2024-04-01 wergle flomp.md",
-    "competitions",
-    "class notes/20240215 - V.md",
-    "class notes/20240208 - IV.md",
-    "class notes/20240201 - III.md",
-    "class notes/20240118 - I.md",
-    "class notes/20140125 - II.md",
     "class notes",
-    "_work/setting/NNY.md",
-    "_work/characters/characters.md",
     "_work/setting",
     "_work/characters",
     "_work",
-    "writing meetup",
     "untitled folder"
   ]
 }
