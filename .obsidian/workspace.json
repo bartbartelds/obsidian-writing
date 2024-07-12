@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89bc6a9bc0243ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-15 GlobeSoup inspired by Art.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-07-15 GlobeSoup inspired by Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-07-15 GlobeSoup inspired by Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2024-07-15 GlobeSoup inspired by Art.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f53794c3f7568a17",
+  "active": "89bc6a9bc0243ab8",
   "lastOpenFiles": [
-    "20240419 NotQuiteWrite.md",
     "Untitled.md",
+    "2024-07-15 GlobeSoup inspired by Art.md",
+    "20240419 NotQuiteWrite.md",
     "competitions/2024-03-31 GW very short story contest.md",
     "competitions/2024-03-31 GWstorieseverywhere.md",
     "competitions/2024-04-15 53 words (monthly).md",
@@ -217,7 +230,6 @@
     "class notes/20140125 - II.md",
     "class notes",
     "_work/setting/NNY.md",
-    "_work/characters/characters.md",
     "_work/setting",
     "_work/characters",
     "_work",
