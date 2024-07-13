@@ -14,5 +14,8 @@ She asked me if I wanted to marry her. I wasn't sure. I asked her if she wanted 
 
 We remained friends and kept in touch. Neither of us seemed able to let go, not fully. In my mind she turned into a simpler creature from a simpler time - ambitious, beautiful, nurturing. And so did I. Without a need to open up and explore, life was easier. 
 
-Eventually she began dating. I didn't, not really. I felt she was brave for putting herself in a position to be hurt. And hurt she was. She was lied to. Gaslit. Stalked. Raped. She told me bits and pieces whenever we met, which happened with time. I couldn't be there for her then any more than I could before. She resented me that. I can't say I blame her. 
+Eventually she began dating. I never did, not really. I felt she was brave for putting herself in a position to be hurt. And hurt she was. She was lied to. Gaslit. Stalked. Raped. She told me bits and pieces whenever we met, which happened with time. I couldn't be there for her then any more than I could before. She resented me for that. I felt that was understandable. 
+
+She became hard in her thoughts and reasoning. 
+
 
