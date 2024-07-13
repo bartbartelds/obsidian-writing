@@ -45,3 +45,9 @@ She nodded. The large covered shapes they passed began to look distinct from far
 
 
 
+
+
+![[Pasted image 20240713115133.png]]
+
+(Picture 9)
+
