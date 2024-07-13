@@ -12,4 +12,6 @@ We moved in together shortly after, another social milestone. The closer we got,
 
 She asked me if I wanted to marry her. I wasn't sure. I asked her if she wanted to have kids. She wasn't sure. I could have said yes. So could she. Both would have been a completely justifiable answers. Wine began to serve a different purpose as our couple status regressed to awkward roommates. We broke up not too long after. The initial relief was profound and healing. 
 
-We remained friends. 
+We remained friends and kept in touch. Neither of us seemed able to let go, not fully. In my mind she turned into a simpler creature from a simpler time - ambitious, beautiful, nurturing. And so did I. Without a need to open up and explore, life was easier. 
+
+Eventually she began dating. I felt she was brave for putting herself in positioned to be hurt again
