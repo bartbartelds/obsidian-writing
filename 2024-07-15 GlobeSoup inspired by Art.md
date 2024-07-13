@@ -30,6 +30,10 @@ We don't talk anymore, broke up a second time. Her image is a memento, a constru
 "Who knows. It's been here forever. Maybe he just moved in, you know. It was abandoned fifty years ago. I don't recall a time when it was in actual use."
 The tall wooden doors were big enough to allow tractors and other motorised farming vehicles through. It took some doing, but eventually the dry wood groaned into motion, and heavy cast iron hinges creaked in protest. A watery sun hung in the december sky at our backs, debating ducking under the west horizon. Weak warm rays pushed back the shadows inside the tall wooden structure. Large shapes covered in white tarps. Workbenches, mostly kept tidy beside a layer of dust. Rows of storage along the east wall, object kept on them neatly spaced. There was a staircase running up the wall to our left, providing access to a crosswalk and three office spaces. 
 "What did you say your dad did again?"
-"He was an engineer for most of his life. "
+"He was an engineer for most of his life. At least that's what he used to tell people - including us. I asked Andrew and mom a few times. We think he actually worked for the army or something. 'R&D'." 
+"Either that or he was a supervillain. Look at this place!"
+Michael nodded as he began navigating the lanes between the vehicles and benches on careful steps. "Come on. But don't touch anything."
+Melissa laughed, but quieted dow
+
 
 
