@@ -27,4 +27,5 @@ We don't talk anymore, broke up a second time. Her image is a memento, a constru
 (picture 19)
 
 "How did he ever find this place?"
-"Who knows. It's been here forever. Maybe he just moved in, you know. Not "
+"Who knows. It's been here forever. Maybe he just moved in, you know. It was abandoned fifty years ago. I don't recall a time when it was in actual use."
+The tall wooden doors were big enough to allow tractors and other motorised farming vehicles through. It took some doing, but eventually the dry wood groaned into motion, and heavy cast iron hinges creaked in protest. A watery sun hung in the december sky at our backs, debating ducking under the wester
