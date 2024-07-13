@@ -33,7 +33,15 @@ The tall wooden doors were big enough to allow tractors and other motorised farm
 "He was an engineer for most of his life. At least that's what he used to tell people - including us. I asked Andrew and mom a few times. We think he actually worked for the army or something. 'R&D'." 
 "Either that or he was a supervillain. Look at this place!"
 Michael nodded as he began navigating the lanes between the vehicles and benches on careful steps. "Come on. But don't touch anything."
-Melissa laughed, but quieted dow
+Melissa laughed, but quieted down when she saw Michael's expression and followed in his wake. 
+
+"What are you looking for?"
+"There's a basement in here somewhere. Probably at the back."
+Melissa remained quiet, and let her hand brush over one of the shelves in passing, pulling a thick trail in the accumulated dust. 
+" ... it's where he spent most of his time. All of this stuff, he didn't really care about."
+"Ok ... sure. What's in the basement?"
+"Just keep a look out for a hatch or whatever, leading down."
+She nodded. The large covered shapes they passed began to look distinct from farming apparatus. 
 
 
 
