@@ -16,8 +16,15 @@ We remained friends and kept in touch. Neither of us seemed able to let go, not 
 
 Eventually she began dating. I never did, not really. I felt she was brave for putting herself in a position to be hurt. And hurt she was. She was lied to. Gaslit. Stalked. Raped. She told me bits and pieces whenever we met, which happened less with time. I couldn't be there for her any more than I could before. She resented me for that. I felt that was understandable. 
 
-She became hard in her thoughts and reasoning. I felt a sense of responsibility, a guilt for tipping the first domino that cascaded into the experiences she had had. The mental image I kept of her in no way resembled reality anymore. I didn't expect her to, but at the same time I couldn't bare the reality. 
+She became hard in her thoughts and reasoning. I felt a sense of responsibility, a guilt for tipping the first domino that cascaded into the experiences she had. The mental image I kept of her in no way resembled reality. I didn't expect it to, but at the same time I couldn't bare it. 
 
-We don't talk anymore, broke up a second time. Her image is a memento. It's a construct, fake and beautiful. I look at it sometimes, when I'm brave enough. 
+We don't talk anymore, broke up a second time. Her image is a memento, a construct, fake and beautiful. I look at it sometimes, when I'm brave enough. Undeserved, she's still there for me. 
 
 
+
+
+![[Pasted image 20240713112120.png]]
+(picture 19)
+
+"How did he ever find this place?"
+"Who knows. It's been here forever. Maybe he just moved in, you know. Not "
