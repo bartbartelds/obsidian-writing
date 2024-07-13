@@ -8,4 +8,7 @@ It took three months of near daily interaction, and a handful of wine-aided get-
 
 Ambition and recognition at work became less important, the more I found strength in her. She saw the man I could become in me. I was overwhelmed, immature and undeserving because I was not him yet. I didn't even stop to consider whether I wanted to be - let alone having similar views on her. The balance had shifted. 
 
-We moved in together shortly after, another social milestone. The closer we got, the more we drifted apart. We were honest in our confusion and insecurities. Perhaps too much. The more we began to see ourselves and eac
+We moved in together shortly after, another social milestone. The closer we got, the more we drifted apart. We were honest in our confusion and insecurities. Perhaps too much. The more we began to see ourselves and each-other as growing and developing beings, the more we realised that the support we thought we had found, was eroding, undependable. That's not what's supposed to happen. We both came to that conclusion, in isolation. Wine began to serve a different purpose as our couple status regressed to awkward roommates. 
+
+She asked me if I wanted to marry her. I wasn't sure. I asked her if she wanted to have kids. She wasn't sure. I could have said yes. It would have been a completely justifiable answer, but I didn't. 
+
