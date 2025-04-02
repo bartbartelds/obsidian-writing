@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fca8aaeb839a33ac",
@@ -210,10 +209,12 @@
   },
   "active": "8eab4f4bc63b47a9",
   "lastOpenFiles": [
+    "class notes/short stories.md",
+    "class notes/20240215 - V.md",
+    "forum-course/20250402.md",
     "Untitled.md",
     "competitions/Pasted image 20240419134422.png",
     "competitions/Pasted image 20240713100214.png",
-    "forum-course/20250402.md",
     "forum-course",
     "competitions/2024-07-15 GlobeSoup inspired by Art.md",
     "competitions/Pasted image 20240713115133.png",
@@ -229,7 +230,6 @@
     "_work/3.md",
     "_work/2.md",
     "_work/1.md",
-    "class notes/short stories.md",
     "competitions/20240418 writing group.md",
     "prompts/2024-04-05 Gotham writers.md",
     "prompts/2024-01.md",
@@ -242,7 +242,6 @@
     "files",
     "competitions/2024-04-01 wergle flomp.md",
     "competitions",
-    "class notes/20240215 - V.md",
     "class notes/20240208 - IV.md",
     "class notes/20240201 - III.md",
     "class notes",
