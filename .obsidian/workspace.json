@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-15 GlobeSoup inspired by Art.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eab4f4bc63b47a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "forum-course/20250402.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-15 GlobeSoup inspired by Art.md",
+                "file": "forum-course/20250402.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-15 GlobeSoup inspired by Art.md",
+                "file": "forum-course/20250402.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-15 GlobeSoup inspired by Art.md"
+                "file": "forum-course/20250402.md"
               }
             }
           }
@@ -195,14 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89bc6a9bc0243ab8",
+  "active": "5c26b649e629f571",
   "lastOpenFiles": [
+    "Untitled.md",
+    "forum-course/20250402.md",
+    "forum-course",
+    "2024-07-15 GlobeSoup inspired by Art.md",
     "Pasted image 20240713115133.png",
     "Pasted image 20240713112120.png",
     "conflict-files-obsidian-git.md",
-    "2024-07-15 GlobeSoup inspired by Art.md",
     "Pasted image 20240713100214.png",
-    "Untitled.md",
     "20240419 NotQuiteWrite.md",
     "competitions/2024-03-31 GW very short story contest.md",
     "competitions/2024-03-31 GWstorieseverywhere.md",
@@ -235,7 +249,6 @@
     "_work/setting",
     "_work/characters",
     "_work",
-    "writing meetup",
-    "untitled folder"
+    "writing meetup"
   ]
 }
